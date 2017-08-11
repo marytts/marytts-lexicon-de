@@ -10326,6 +10326,7 @@ Schema 'Se:-ma:
 Schenkungen 'SEN-kU-N@n
 Scherben 'SE6-b@n
 Scherchens 'SE6-C@ns
+Schere 'Se:-R@
 Scherf 'SE6f
 Scheu 'SOY
 Scheucht 'SOYCt
