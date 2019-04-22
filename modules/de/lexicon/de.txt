@@ -1,5 +1,5 @@
 # #########################################################################
-# Copyright 2009-2010 DFKI GmbH.
+# Copyright 2009-2019 DFKI GmbH.
 # All Rights Reserved.  Use is subject to license terms.
 #
 # This file is part of MARY TTS.
@@ -643,7 +643,7 @@ Arbeitsgruppen '?a6-baIts-gRU-p@n
 Arbeitskleidung '?a6-baIts-klaI-dUN
 Arbeitskraft '?a6-baIts-kRaft
 Arbeitskräfte '?a6-baIts-kREf-t@
-Arbeitslose '?a6-baIts-lo:-z@
+Arbeitslose 'aR-baIts-lo:-z@
 Arbeitslosengeld '?a6-baIts-lo:-z@n-gElt
 Arbeitslosenquote '?a6-baIts-lo:-s@n-kvo:-t@
 Arbeitslosigkeit '?a6-baIts-lo:-zIC-kaIt
@@ -1316,7 +1316,7 @@ Bemerkenswert b@-'mE6-k@ns-vE6t
 Bemühung b@-'my:-UN
 Bemühungen b@-'my:-U-N@n
 Ben 'bEn
-Benachteiligten b@-'nax-taI-lIC-t@n
+Benachteiligten b@-na:x-taI-lIC-t@n
 Benannt b@-'nant
 Benares b@-'na:-REs
 Bender 'bEn-d6
@@ -2180,7 +2180,7 @@ Citykirche 'sI-ti:-kI6-C@
 Claire 'klE@
 Clarissas kla-'RI-sa:s
 Clark 'kla6k
-Class 'klas
+Class kla:s
 Claude 'klo:d
 Claudia 'klaU-di:-ja:
 Claudio 'klaU-di:-jo:
@@ -3385,8 +3385,8 @@ Europiums ?OY-'Ro:-pi:-Ums
 Europsychedeliker '?OY-Ro:-psy:-C@-de:-li:-k6
 Europäer ?OY-Ro:-'pE:-6
 Europäerinnen ?OY-Ro:-'pE:-@-RI-n@n
-Europäische ?OY-Ro:-'pE:-jI-S@
-Europäischen ?OY-Ro:-'pEI-jI-S@n
+Europäische OY-Ro:-pE:-I-S@
+Europäischen OY-Ro-pE:-I-S@n
 Euros '?OY-Ro:s
 Eurovision ?OY-Ro:-vi:-'zjo:n
 Euskirchen ?OYs-'ki:6-C@n
@@ -4561,8 +4561,8 @@ Grafen 'gRa:-f@n
 Grafik 'gRa:-fIk
 Grafikkarte 'gRa:-fI-ka6-t@
 Graham 'grE:-hEm
-Grammatik gRa:-'ma-tIk
-Gran 'grEn
+Grammatik gRa-m'a-tIk
+Gran gRan
 Grand 'gRa~
 Grandevent 'gREnd-?i:-vEnt
 Grandjean gRa~-'ja~
@@ -4695,7 +4695,7 @@ Gur 'gU6
 Gurewitsch gu:-'Re:-vItS
 Gurirab 'gu:-Ri:-Ra:p
 Guru 'gu:-Ru:
-Gustav 'gUS-ta:f
+Gustav gus-taf
 Gut 'gu:t
 Gutachten 'gu:t-?ax-t@n
 Gutachter 'gu:t-?ax-t6
@@ -7026,7 +7026,7 @@ List 'lIst
 Liste 'lIs-t@
 Litauischer 'li:-taU-I-S6
 Liter 'li:-t6
-Literatur lI-t6-Ra:-'tU6
+Literatur li:-t@-Ra-t'u:6
 Lithium 'li:-ti:-Um
 Lithiums 'li:-ti:-Ums
 Little 'lI-t@l
@@ -7069,7 +7069,7 @@ Lotterielose lO-t@-'Ri:-lo:-z@
 Lotterlebens 'lO-t6-le:-b@ns
 Lou 'lu:
 Louis 'lu:-Is
-Love 'lOf
+Love l'a:f
 Lovecraft 'lOv-kraft
 Low 'loU
 Lubitsch 'lu:-bItS
@@ -7324,7 +7324,7 @@ Massaker ma-'sa-k6
 Massen 'ma-s@n
 Massenmörder 'ma-s@n-m96-d6
 Massud ma-'sUt
-Master 'mas-t6
+Master m'a:s-t6
 Masterkeyboard 'mas-t6-ki:-bOa6t
 Masters 'mas-t6s
 Mastrosimones mas-tRo:-zI-'mo:-n@s
@@ -7475,7 +7475,7 @@ Menuette me:-nu:-'E-t@
 Menuetten me:-nu:-'E-t@n
 Menuettes me:-nu:-'E-t@s
 Menuetts me:-nu:-'Ets
-Menü mE-'ny:
+Menü me-ny:
 Meppen 'mE-p@n
 Mercedes mE6-'tse:-d@s
 Mercosur 'mE6-ko:-zU6
@@ -8404,12 +8404,12 @@ Olivier ?o:-li:-'vje:
 Olomouc '?o:-lo:-mu:k
 Olszowka ?Ols-'tsOf-ka:
 Oltmanns '?Olt-mans
-Olympia ?o:-'lYm-pi:-ja:
+Olympia o-l'Ymp-ja
 Olympiasieg ?o:-'lYm-pja:-zi:k
 Olympiasieger ?o:-'lYm-pi:-ja:-zi:-g6
 Olympiasiegerin ?o:-'lYm-pia:-zi:-g6-RIn
-Olympiastadion ?o:-'lYm-pi:-?a-Sta-di:-jOn
-Olympiastadions ?o:-'lYm-pi:-?a-Sta-di:-jOns
+Olympiastadion ?o:-'lYm-pia-Sta-di:-jOn
+Olympiastadions ?o:-'lYm-pia-Sta-di:-jOns
 Olympischen ?o:-'lYm-pI-S@n
 Olympus ?o:-'lYm-pUs
 Oma '?o:-ma:
@@ -9112,7 +9112,6 @@ Portal pO6-'ta:l
 Portals pO6-'ta:ls
 Porte 'pO6t
 Portefeuille pO6t-'f9I
-Portemonnaie
 Portemonnaie 'pORt-mo:-ne:
 Portier pO6t-'je:
 Portiere pO6t-'je:-R@
@@ -9829,8 +9828,8 @@ Ressort Re:-'sO6
 Ressorts Re:-'sO6s
 Ressourcen Re:-'sU6-s@n
 Rest 'REst
-Restaurant RES-to:-'Ra~
-Restaurants RES-'to:-'Ra~s
+Restaurant REs-to-Ra~
+Restaurants REs-to-Ra~s
 Reste 'REs-t@
 Restmüll 'REst-mYl
 Resultate Re:-zUl-'ta:-t@
@@ -11302,8 +11301,8 @@ Stangentusche 'Sta-N@n-tU-S@
 Stanley 'stEn-lEI
 Stanowoihochland 'Sta-no:-vOY-ho:x-lant
 Staplerfahrer 'Stap-l6-fa:-R6
-Star 'Sta:6
-Starband 'Sta:6-bant
+Star sta:R
+Starband 'sta:6-bant
 Stars 'sta6s
 Start 'Sta6t
 Startplätze 'Sta6t-plE-ts@
@@ -11533,7 +11532,7 @@ Studenten Stu:-'dEn-t@n
 Studentinnenrat Stu:-dEn-tIn-@n-Ra:t
 Studevend 'Stu:-d@-v@nt
 Studie 'Stu:-di:@
-Studio 'Stu:-dI-jo:
+Studio Stu:-djo
 Studios 'Stu:-di:-o:s
 Studium 'Stu:-di:-Um
 Studiums 'Stu:-di:-Ums
@@ -12610,7 +12609,7 @@ Variationsbreite va-Ri:-a-'tsjo:ns-bRaI-t@
 Variationsbreiten va-Ri:-a-'tsjo:ns-bRaI-t@n
 Varietät va-Ri:-e:-'tE:t
 Varietäten va-Ri:-e:-'tE:-t@n
-Varieté vari:-@-'te:
+Varieté va6-j@-te:
 Variola va-Ri:-'o:-la:
 Variole va-Ri:-'o:-l@
 Variolen va-Ri:-'o:-l@n
@@ -14956,7 +14955,7 @@ befragt b@-'fRa:kt
 befreien b@-'fRaI-@n
 befruchtet b@-'fRUx-t@t
 befähigen b@-'fE:-I-g@n
-befördern b@-'f9-d6n
+befördern b@-'f9R-d6n
 befürchten b@-'fY6C-t@n
 befürwortete b@-'fy:6-vO6-t@-t@
 begabend b@-'ga:-b@nt
@@ -20994,7 +20993,7 @@ verschwinden fE6-'SvIn-d@n
 verschwindend fE6-'SvIn-d@nt
 verschwindet fE6-'SvIn-d@t
 verschwundenen fE6-'SvUn-d@-n@n
-verschärften fE6-'SE:Rf-t@n
+verschärften fE6-SERf-t@n
 verschönten fE6-'S2:n-t@n
 versehen 'fE6-ze:-@n
 versetzen fE6-'zE-ts@n
@@ -22558,7 +22557,6 @@ Daten 'da:-t@n
 Wert 'vE6t
 frühen 'fRy:-@n
 Reiches 'RaI-C@s
-europäischen ?OY-Ro:-'pe:-I-S@n
 genutzt g@-'nUtst
 Einzelnachweise 'aIn-ts@l-nax-vaI-z@
 Gold 'gOlt
@@ -22797,7 +22795,7 @@ Bezeichnungen b@-'tsaIC-nU-N@n
 Zwar 'tsva:6
 Jahrhunderte ja:6-'hUn-d6-t@
 Mathematiker ma-t@-'ma:-ti:-k6
-Dateien da:-'taI-@n
+Dateien da-taI-@n
 speziellen Spe:-'tsjE-l@n
 Sehenswürdigkeiten 'ze:-@ns-vY6-dIC-kaI-t@n
 Wahrnehmung 'va:6-ne:-mUN
@@ -22852,7 +22850,7 @@ besonderen b@-'zOn-d6-R@n
 ältere 'El-t6-R@
 Base 'ba:-z@
 umgesetzt '?Um-g@-zEtst
-Testament tES-ta:-'mEnt
+Testament tEs-ta-m'Ent
 Fantasy 'fEn-t@-si:
 jene 'je:-n@
 begründete b@-'gRYn-d@-t@
@@ -23010,7 +23008,6 @@ Logarithmus lo:-ga-'RIt-mUs
 Kafka 'kaf-ka:
 Summe 'zU-m@
 komplexe kOm-'plE-ks@
-literarischen li:-t@-'Ra:-RI-S@n
 bestehenden b@-'Ste:-@n-d@n
 Klassen 'kla-s@n
 Null 'nUl
@@ -23459,7 +23456,6 @@ Gesetzes g@-'zE-ts@s
 Militärs mi:-li:-'tE:6s
 analog ?a-na-'lo:k
 stabil Sta:-'bi:l
-literarische li:-t@-'Ra-RI-S@
 erhaltene ?E6-'hal-t@-n@
 Mehrzahl 'me:6-tsa:l
 Calcium 'kal-tsi:-Um
@@ -23557,7 +23553,6 @@ Parker 'pa6-k6
 einheitliche 'aIn-haI-tlI-C@
 bevorzugt b@-'fo:6-tsu:kt
 kroatischen kRO-'?a:-tI-S@n
-befördert b@-'f2:6-d6t
 Thälmann 'tE:l-man
 finanzielle fI-nan-'tsjE-l@
 belegen b@-'le:-g@n
@@ -23771,7 +23766,7 @@ Anhängern '?an-hE-N6n
 seltenen 'zEl-t@-n@n
 Kapitel ka-'pi:-t@l
 spezifischen Spe:-'tsi:-fI-S@n
-Ruhr 'RU6
+Ruhr 'Ru:6
 linke 'lIN-k@
 heutiger 'hOY-tI-g6
 Zentren 'tsEn-tR@n
@@ -24645,7 +24640,7 @@ Niob 'ni:-o:p
 Anatomie ?a-na-to:-'mi:
 Verdienste fE6-'di:ns-t@
 Plätze 'plE-ts@
-Kameras 'ka:-m@-Ra:s
+Kameras ka-m@-Ras
 Schmuck 'SmUk
 Odin '?o:-dIn
 einzuführen 'aIn-tsu:-fy:-R@n
@@ -24702,7 +24697,6 @@ Schwerkraft 'SvE6-kRaft
 Böse 'b2:-z@
 symbolische zYm-'bo:-lI-S@
 Berücksichtigung b@-'RYk-zIC-ti:-gUN
-entfernten ?Ent-'f6n-t@n
 verließen fE6-'li:-s@n
 Rate 'Ra:-t@
 Stationen 'Stats-'jo:-n@n
@@ -24755,7 +24749,7 @@ Slowenien slo:-'ve:-ni:-@n
 Südinsel 'sy:t-?In-z@l
 Offizier ?O-fi:-'tsi:6
 möglicher 'm2:-glI-C6
-Blöcke 'bl2:-k@
+Blöcke bl9-k@
 entscheidet ?Ent-'SaI-d@t
 Mineralien mI-n@-'Ra:-li:-@n
 industrielle ?In-dUs-tRi:-'E-l@
@@ -25014,7 +25008,7 @@ bit 'bIt
 unzählige '?Un-tsE:-lI-g@
 Vermehrung fE6-'me:-RUN
 Trier 'tRi:6
-Abständen '?ap-stEn-d@n
+Abständen ap-StEn-d@n
 äußert 'OY-s6t
 Fertigstellung 'fE6-tIC-stE-lUN
 Teils 'taIls
@@ -25831,7 +25825,7 @@ com 'kOm
 Berichten b@-'RIC-t@n
 Klassische 'kla-sI-S@
 Quadrat kva-'dRa:t
-verstärkten fE6-'StE:6-kt@n
+verstärkten fE6-StE6k-t@n
 ermitteln ?E6-'mI-t@ln
 Genen 'ge:-n@n
 gewährte g@-'vE:6-t@
@@ -26133,7 +26127,7 @@ umgehen Um-'ge:-@n
 Differenzierung dI-f6-REn-'tsi:-RUN
 Eintrag 'aIn-tRa:k
 Datenverarbeitung 'da:-t@n-fE6-?a:6-baI-tUN
-verbracht fE6-'bRa:xt
+verbracht fER-bRaxt
 Fahrten 'fa:6-t@n
 Non 'nOn
 upright '?ap-raIt
@@ -26275,7 +26269,6 @@ Seefahrer
 Diskurs
 dahingehend
 Euromünzen
-entfernen
 Frühzeit
 Gallium
 präzise
@@ -26283,11 +26276,9 @@ Kavitation
 ausbilden
 bekanntes
 fliehen
-geringerem
 Angesichts
 Landgericht
 Vertrieb
-begrenzte
 Strauß
 Astronauten
 Eritrea
@@ -26324,7 +26315,6 @@ Datierung
 belastet
 Einhaltung
 allergischen
-Erkennung
 Entdecker
 ermöglichten
 experimentelle
@@ -26415,7 +26405,6 @@ unterirdischen
 Schaltung
 unweit
 Gunsten
-Referenzen
 eröffneten
 verlorenen
 gehörende
@@ -26455,7 +26444,6 @@ Powell
 verschwanden
 Eingriffe
 indes
-lebendig
 Bundeslandes
 Weltall
 Astana
@@ -26515,10 +26503,8 @@ primäre
 Zeitrechnung
 SMS
 jenes
-Erhebungen
 mRNA
 Gottlob
-extremen
 herrschende
 schwierigen
 gewünschten
@@ -26685,7 +26671,6 @@ angesetzt
 Vorher
 Hochsprache
 Bildenden
-geltend
 Kathode
 Lothringen
 Speicherbereinigung
@@ -26781,7 +26766,6 @@ Pulver
 Naturschutz
 Forstwirtschaft
 ausgedehnt
-verworfen
 Proteste
 Aurelian
 Soziale
@@ -26845,7 +26829,6 @@ solch
 Fledertiere
 Kramer
 Sitzverteilung
-gestärkt
 Mayonnaise
 Keith
 militärischer
@@ -26899,10 +26882,8 @@ Elite
 Elektron
 gesellschaftlich
 Aufruf
-entfernte
 Verbrauch
 geschätzten
-Vertretung
 anglikanischen
 eigenständiges
 Berühmtheit
@@ -26918,7 +26899,6 @@ gegenüberliegenden
 letzterer
 Stämmen
 virtuellen
-dynamischen
 verbrennt
 Semester
 Konjugation
@@ -26969,7 +26949,6 @@ genutzte
 Kapitals
 Astrologie
 Set
-Bestätigung
 Exzentrizität
 kalt
 befassen
@@ -27071,7 +27050,6 @@ tiefste
 wechselt
 Papiergeld
 Kathmandu
-Bruce
 Neuwahlen
 besiedelte
 Fleck
@@ -27084,7 +27062,6 @@ Ziegen
 isländischen
 klinischen
 durchzogen
-gegenseitige
 schrittweise
 Natürliche
 Betreiben
@@ -27164,7 +27141,6 @@ Euphrat
 Salpetersäure
 Grundriss
 Türme
-gestrichen
 Sequenzen
 zurückkehrte
 kämpften
@@ -27181,7 +27157,6 @@ wohin
 FAZ
 Erhalt
 Nachfolgern
-dynamisch
 Luc
 Wachstums
 formen
@@ -27250,7 +27225,6 @@ Weltbühne
 Infinitesimalrechnung
 alternativen
 Umschrift
-anzuwenden
 erschaffen
 Überlegenheit
 Geister
@@ -27320,7 +27294,6 @@ Seienden
 Spezielle
 Herleitung
 umzuwandeln
-anwenden
 Gitter
 bestehender
 verblieb
@@ -27345,7 +27318,6 @@ Library
 Fasern
 verfolgten
 Nieren
-literarisch
 vorgegebenen
 eingebracht
 Hemmung
@@ -27377,7 +27349,6 @@ kulturelles
 serbische
 Tanach
 Verlage
-erbracht
 Ägyptischen
 gesendet
 HTTPS
@@ -27394,7 +27365,6 @@ Waffenstillstand
 Vergiftung
 importiert
 Lymphknoten
-begrenzten
 ausgerichtete
 Zahlungen
 voraussichtlich
@@ -27480,7 +27450,6 @@ Empfang
 Tucholskys
 Innenpolitik
 Abschnitten
-Emanuel
 langfristige
 Bulgariens
 Webseite
@@ -27507,7 +27476,6 @@ Engine
 Beleg
 Blutgefäße
 brachen
-gemessene
 Amerikanern
 Meersburg
 Eroberungen
@@ -27526,7 +27494,6 @@ verlaufenden
 Gabe
 Zürcher
 Verbund
-getrennten
 vornehmen
 buddhistische
 sandte
@@ -27569,7 +27536,6 @@ Containern
 Zypern
 Papen
 bedingten
-Bereitschaft
 abzugrenzen
 Grundschulen
 ließe
@@ -27584,7 +27550,6 @@ Vulkanismus
 Bewohnern
 Serbischen
 aufwändig
-Allee
 akustischen
 diskutieren
 Eugene
@@ -27595,7 +27560,6 @@ Meerwasser
 Laufwerke
 Verzeichnis
 Verwaltungs
-wandern
 Studies
 analysieren
 Kaufkraft
@@ -27688,7 +27652,6 @@ steuern
 Orthodoxe
 Protestantismus
 ganzjährig
-Problems
 gewaltsam
 Konfiguration
 Absetzung
@@ -27703,9 +27666,7 @@ Abgeordneter
 Plaza
 BMI
 Cer
-Marketing
 PKW
-lebendige
 Deneuve
 Zapfen
 Eiffelturm
@@ -27752,7 +27713,6 @@ Manichäismus
 begreifen
 Kernfusion
 Quintett
-aktiviert
 verschlechterte
 Komödien
 anzupassen
@@ -27764,7 +27724,6 @@ beliebiger
 Aufbereitung
 kritischer
 Verneinung
-subjektiven
 linearen
 Edikt
 Kabbala
@@ -27903,7 +27862,6 @@ Gebet
 reguliert
 Stadtbahn
 überlieferte
-maßgeblichen
 Versöhnung
 Anklage
 vielerlei
@@ -27971,14 +27929,12 @@ Charts
 mmol
 abgestimmt
 autistische
-Vollständigkeit
 Frischs
 Zeichenfolge
 wirkende
 Printmedien
 Browsern
 Quellenangaben
-ablehnen
 ökologische
 Bekanntschaft
 oströmischen
@@ -28080,7 +28036,6 @@ Einflusses
 Statistiken
 Orleans
 Abstraktion
-thermodynamischen
 Seghers
 Microsofts
 Spiralarme
@@ -28179,7 +28134,6 @@ gestellten
 Höhle
 Ströme
 spezialisierten
-schwerste
 Zusammenwirken
 Tuberkulose
 Abwanderung
@@ -28189,13 +28143,11 @@ vereinen
 Marc
 Abgabe
 komplizierte
-derartiger
 Guinea
 Türmen
 Astronomischen
 Kühlung
 Droste
-Reserve
 Kalkül
 Landesverbände
 Makrophagen
@@ -28345,7 +28297,6 @@ Spezifikation
 Antioxidantien
 verkehrte
 aufeinanderfolgenden
-Ebert
 Regierungssitz
 Überlieferungen
 Fachliteratur
@@ -28406,7 +28357,6 @@ Elbląg
 Artillerie
 Edith
 begonnene
-Action
 naturgemäß
 Handelspartner
 Massenmedien
@@ -28442,7 +28392,6 @@ Zugriffe
 Wild
 Spule
 Inquisition
-Bemerkungen
 Akkadischen
 Telefonnetz
 Beben
@@ -28454,11 +28403,8 @@ Heuss
 Bayernpartei
 Hirntod
 Zahlenwert
-konkreter
 Infektionskrankheiten
-vorn
 illegalen
-bestätigten
 Ikone
 Filmgeschichte
 Heart
@@ -28491,7 +28437,6 @@ Durchfahrt
 Schalen
 normaler
 auffällig
-Grenzwert
 Seins
 Stadtgemeinde
 irgendeiner
@@ -28677,7 +28622,6 @@ Ruine
 gesperrt
 Mähren
 Module
-spezielles
 Eno
 Kriegsführung
 physiologischen
@@ -28767,10 +28711,8 @@ historisches
 Ringbögen
 Reporter
 Wurde
-beabsichtigte
 kommentiert
 Einigkeit
-gegenseitigen
 Aktiengesellschaft
 Granulozyten
 Meere
@@ -28778,7 +28720,6 @@ Heckel
 behindert
 repräsentativen
 Gräfin
-maßgebliche
 Beschützer
 Reduktionsmittel
 bewerten
@@ -28846,7 +28787,6 @@ radioaktive
 Muttersprachler
 strikte
 Regisseuren
-ausgerüstet
 Musiktheorie
 seitlich
 Wikinger
@@ -28857,7 +28797,6 @@ profitiert
 bemannten
 Kolonialmacht
 Absinthe
-lehnen
 Frédéric
 franz
 veraltete
@@ -29049,7 +28988,6 @@ Control
 Überschwemmungen
 Historischen
 Stilrichtungen
-angestrebte
 Hauptgruppe
 Rechtsordnung
 dramatisch
@@ -29184,12 +29122,10 @@ kompensieren
 École
 Putschversuch
 Feuerland
-Kneipen
 Metalls
 Zweitstimmen
 zurückgreifen
 Trojaner
-statischen
 Alphabete
 Oberhoheit
 beschleunigte
@@ -29233,7 +29169,6 @@ Einzig
 Wortanfang
 Friedensfahrt
 Vorliebe
-erheblicher
 Prozentpunkte
 Aschaffenburg
 gleichem
@@ -29255,7 +29190,6 @@ Himmlers
 Fischfang
 Stadtrechte
 Ausgehend
-Reserven
 Orléans
 Anteilen
 Arbeitsplätzen
@@ -29344,7 +29278,6 @@ Lautstärke
 spärlich
 Computerprogramm
 resultierte
-Verschmutzung
 Solidarität
 Missouri
 Forbes
@@ -29388,7 +29321,6 @@ Rokoko
 Buddhisten
 ärmeren
 verbietet
-angrenzende
 Tumorzellen
 sozialdemokratischen
 Oswald
@@ -29454,14 +29386,12 @@ Arnims
 Jahrtausende
 ruht
 Modi
-Bars
 führend
 instabile
 span
 Abel
 Heilmittel
 Absolutismus
-schwersten
 Mehrheiten
 Großer
 Mazedonier
@@ -29506,7 +29436,6 @@ Gesamtausgabe
 Marsch
 Jüngers
 exakten
-beabsichtigt
 Löslichkeit
 beiderseits
 Mittelmeers
@@ -29658,10 +29587,8 @@ Liberalismus
 umzusetzen
 ten
 Friesen
-verschärft
 Fachgebiet
 semantischen
-kompakte
 vorsieht
 Entwürfen
 Turin
@@ -29678,7 +29605,6 @@ mittlerer
 zusammensetzt
 Ostpreußen
 Method
-Gerüst
 Stier
 westeuropäischen
 Erdmond
@@ -29706,7 +29632,6 @@ Hindi
 feuchter
 hinweisen
 Univ
-Verordnungen
 diagnostiziert
 Eden
 koordinieren
@@ -29745,13 +29670,11 @@ Eindrücke
 kognitive
 Kratern
 Längen
-Ganges
 Bremthal
 Raums
 Grundherren
 Nukleotide
 aufwändige
-gemessenen
 quantitativ
 Eisenbahnstrecken
 Kaschmirs
@@ -29810,7 +29733,6 @@ Attribut
 Lanthanoiden
 Vorrang
 Mumbai
-schwierige
 Unsere
 überwiegt
 neueste
@@ -29868,7 +29790,6 @@ leichteren
 Fischarten
 Zersetzung
 Side
-literarischer
 Kerns
 Mikroelektronik
 Alice
@@ -30157,7 +30078,6 @@ Scanner
 Geschlechts
 dicken
 obliegt
-unzureichende
 Arbeiterpartei
 Stärken
 Kate
@@ -30197,7 +30117,6 @@ Kreide
 lasse
 Athener
 Schutzzeichen
-kompensiert
 irreführend
 Gleiches
 Arbil
@@ -30243,7 +30162,6 @@ konsumiert
 mindern
 Kasner
 eintrat
-effizienter
 angehörte
 Mächten
 Betty
@@ -30268,7 +30186,6 @@ Kirchenkreis
 Proklamation
 other
 Encyclopedia
-Grenzwerte
 teilzunehmen
 Volksentscheid
 Eiffelturms
@@ -30479,7 +30396,6 @@ Modellierung
 Antwerpen
 Entstehungsgeschichte
 stufe
-methodischen
 Netscape
 Anrainerstaaten
 Linse
@@ -30533,7 +30449,6 @@ Emirate
 Khoisan
 Traggas
 jähriger
-Benutzern
 handwerkliche
 Produktionsmittel
 Gleichgewichts
@@ -30603,7 +30518,6 @@ Yahoo
 Schloßberg
 Normalbedingungen
 Theoretisch
-verschieben
 Donaudelta
 verbrauchen
 Verstoß
@@ -30637,7 +30551,6 @@ Ibn
 Ärmelkanal
 Kalenderreform
 Gefecht
-Box
 Partition
 Berger
 DVI
@@ -30772,7 +30685,6 @@ festes
 geschmolzen
 aufheben
 Fraktale
-Spaghetti
 Zähler
 Bearbeitungen
 Instant
@@ -30848,7 +30760,6 @@ persönliches
 erhofft
 Split
 Ausdrucks
-Vorlesung
 dekliniert
 Sparta
 Mitterrand
@@ -31005,7 +30916,6 @@ Brutus
 Produktionsweise
 schlechtes
 Fledermäusen
-effiziente
 indirekten
 Sichtweisen
 Lebensform
@@ -31032,7 +30942,6 @@ hergestellte
 Tugenden
 deutlichsten
 starteten
-Dokumentationen
 Lama
 Fernrohr
 Thales
@@ -31045,7 +30954,6 @@ Lost
 Partisanen
 virtù
 erhöhtes
-Bedienung
 Attentate
 juristisch
 abgedeckt
@@ -31070,7 +30978,6 @@ Kiefer
 isolierten
 festgenommen
 Meta
-diverser
 vermochte
 Karavelle
 Ultimatum
@@ -31086,7 +30993,6 @@ saßen
 Schauspielerinnen
 Küstenregionen
 ehrenamtlichen
-generelle
 Baus
 Werften
 Protektorat
@@ -31183,7 +31089,6 @@ heftiger
 gefährlichen
 Kurzfilm
 Mathers
-Training
 Grundstücke
 verschiebt
 Häufigkeiten
@@ -31252,7 +31157,6 @@ Erbanlagen
 Pietro
 Statin
 Statut
-Schwäbischen
 Innings
 Monarch
 komprimiert
@@ -31317,7 +31221,6 @@ islamischer
 Dienstag
 Regierungsgeschäfte
 Stadtgründung
-äußerste
 Palladium
 betrugen
 Gedankens
@@ -31396,7 +31299,6 @@ Beatles
 Untereinheit
 Rechtsstaat
 Wasserstoffbrücken
-verschärfte
 attraktiven
 Prince
 Ekliptik
@@ -31415,8 +31317,7 @@ Hebräischen
 unbeachtet
 Synchronisation
 finno
-Reparatur
-Reichskanzlei
+Reparatur Re-pa-Ra-t'u:6
 Mailänder
 verweigerten
 Severus
@@ -31432,9 +31333,7 @@ unbegrenzt
 metallisches
 Prayer
 Vereinzelt
-plötzliche
 Anreicherung
-aktivieren
 Infrarot
 betonen
 formulierten
@@ -31459,7 +31358,6 @@ obgleich
 symmetrische
 html
 Verwaltungssitz
-Elektro
 Durchfall
 Maxime
 einschließt
@@ -31501,7 +31399,6 @@ Unsicherheit
 Boltzmann
 Südspitze
 Gemeindereform
-Tagung
 Baustil
 verbaut
 Heutige
@@ -31513,7 +31410,6 @@ vorgegeben
 Chaplins
 Konföderation
 widmeten
-erstere
 humanistische
 steigert
 Autobahnnetz
@@ -31600,7 +31496,6 @@ aufzuheben
 Aneignung
 Reptilien
 rückt
-Fenstern
 durchweg
 umgangen
 Helix
@@ -31616,7 +31511,6 @@ Belletristik
 Natriumhydroxid
 semantische
 Gambias
-thermodynamisch
 hemmen
 Fußballnationalmannschaft
 ontologische
@@ -31668,7 +31562,6 @@ proprietäre
 Unendlichkeit
 Altes
 Paper
-Transfer
 verteidigt
 Pampa
 Palma
@@ -31685,7 +31578,6 @@ Somalia
 Aristotelismus
 Abkühlen
 Sterben
-gekennzeichneten
 Automatisierung
 Beirat
 langwierigen
@@ -31762,7 +31654,6 @@ hergeleitet
 Flugzeuges
 Lane
 Zurzeit
-lesbar
 Daoismus
 Geophysik
 Stilmittel
@@ -31822,7 +31713,6 @@ Tälern
 Konfrontation
 Betrachtungsweise
 Binnenschifffahrt
-transparent
 Ostrom
 Albums
 registrieren
@@ -31921,8 +31811,7 @@ BR
 BP
 DC
 Host
-Vertrags
-If
+Reichskanzlei
 ZF
 Nomos
 ch
@@ -32260,7 +32149,6 @@ Grundprinzipien
 Dictionary
 Hildegard
 Lehrbüchern
-benachteiligt
 Mussolinis
 kleinem
 gleichbedeutend
@@ -32334,7 +32222,6 @@ Direktors
 Glückseligkeit
 Fürstenberg
 Westlichen
-Marschall
 Mathematica
 Elementares
 gepflanzt
@@ -32363,7 +32250,6 @@ Compilern
 Kärnten
 Heyne
 Neubauten
-Thüringer
 Kroatisch
 Janet
 Cinema
@@ -32463,7 +32349,6 @@ sinnliche
 abzuleiten
 Roche
 Hackman
-Befestigung
 Feiern
 Porträts
 Befriedigung
@@ -32508,7 +32393,6 @@ Kreditgeber
 sprich
 Kräuter
 wilder
-subjektiv
 Kenya
 Telegraph
 Eigelb
@@ -32601,17 +32485,14 @@ Blas
 Beratungen
 Sterns
 Baktrien
-Referat
 Zirkel
 Mayr
 Istanbuls
 Isländischen
 Transurane
-Betätigung
 Spektroskopie
 genoss
 Lichtenfels
-derartigen
 Britannien
 funktionale
 Editionen
@@ -32721,7 +32602,6 @@ handele
 Montgomery
 Lieferanten
 verschmelzen
-Dokuments
 bereitstellen
 Orts
 Seaborg
@@ -32984,7 +32864,6 @@ Computervirus
 Trigramme
 Einfachheit
 Grundgesetze
-methodische
 außerordentlicher
 Umkehrung
 Sielmingen
@@ -33049,7 +32928,6 @@ Anwesen
 chronische
 Atomkernen
 Buchten
-absolvieren
 Geoinformatik
 gewachsene
 Befürchtungen
@@ -33067,7 +32945,6 @@ Föderative
 Alkalimetalle
 wohlhabende
 Bevölkerungsentwicklung
-statische
 Primfaktorzerlegung
 Limburg
 Volleyball
@@ -33284,7 +33161,6 @@ nördlichste
 Flugbahn
 kommunistisch
 Bauxit
-Nummerierung
 Beratung
 wagte
 Westmächte
@@ -33299,7 +33175,6 @@ Ersetzung
 explosionsartig
 Fachwerk
 Sonnenjahr
-konkretes
 annektiert
 Jammu
 Endoskope
@@ -33418,7 +33293,6 @@ libri
 Runs
 tagt
 Grammy
-Kompromisse
 Patenschaft
 Insolvenz
 angeht
@@ -33613,7 +33487,6 @@ Verbrecher
 vergesellschaftet
 Computerprogramme
 Luftangriff
-Benachteiligung
 Neubildung
 Anschlussstelle
 Pedro
@@ -33801,7 +33674,6 @@ Unternehmungen
 Züchtung
 tschechisch
 Stapel
-nass
 Gides
 OpenGL
 Göttliche
@@ -33850,7 +33722,6 @@ Körperbau
 Perfekt
 Sortiment
 prägend
-angestrebten
 ansteigen
 Grafiken
 Chroniken
@@ -34041,7 +33912,6 @@ Malers
 Malern
 Braunkohle
 Maximus
-extremer
 unbrauchbar
 Spiralen
 Magnetismus
@@ -34138,7 +34008,6 @@ Piazza
 Zeughaus
 verlagerte
 Handwerks
-Thyssen
 algerische
 inverse
 Paterson
@@ -34162,7 +34031,6 @@ digitales
 Laufzeiten
 Veto
 Hauptschulen
-Terra
 Terme
 Agnostiker
 Faksimile
@@ -34181,7 +34049,6 @@ Weitgehend
 Knospe
 Bezirksvertretung
 Dreißigjähriger
-vorherige
 Übergangsbereich
 Mussolini
 Grundherrschaft
@@ -34386,7 +34253,6 @@ Epirus
 Ölen
 fassbar
 Keyser
-warnt
 Verkaufszahlen
 rückblickend
 générale
@@ -34449,7 +34315,6 @@ Hannibal
 gerechten
 Heavy
 Registrierung
-angemessenen
 Schleusen
 Bombardements
 rhythmische
@@ -34467,7 +34332,6 @@ Gesammelte
 vorgeschriebenen
 Radikalen
 Balls
-absolviert
 rituelle
 Greyhawk
 Bundeskanzleramt
@@ -34622,7 +34486,6 @@ unsichtbaren
 Subjekte
 Rouen
 mächtigsten
-kompakten
 Eigene
 Santo
 Départements
@@ -34702,7 +34565,6 @@ gereicht
 Cato
 Gefäßen
 Versagen
-Folie
 Cornell
 gleichzeitiger
 Astrophysik
@@ -34797,7 +34659,6 @@ verlorene
 Kapitalisten
 Monopolstellung
 Meisterwerk
-Italia
 Wissenschaftslehre
 Vetter
 Bundesgerichtshofs
@@ -34814,7 +34675,6 @@ Hohensyburg
 Anis
 organisatorische
 NeXT
-rechnerisch
 Assuan
 grünlich
 Körperschaften
@@ -34850,7 +34710,6 @@ abwertend
 Euroeinführung
 Versorgungslage
 arab
-beförderte
 ABGB
 Gemeinsamkeit
 Garde
@@ -34936,7 +34795,6 @@ Ehrung
 Entzugserscheinungen
 Content
 Libelle
-begrenzter
 Einheitenzeichen
 kosmologische
 Glieder
@@ -35093,7 +34951,6 @@ Hyperinflation
 Argentina
 Attraktion
 oströmische
-Ingo
 Millimetern
 Handelsstadt
 kreisförmigen
@@ -35241,7 +35098,6 @@ Domänen
 kalter
 ali
 Supraleiter
-Recherche
 drittstärkste
 funktionierendes
 platzieren
@@ -35413,7 +35269,6 @@ WLAN
 lebhaften
 Treaty
 Kubrick
-BeBox
 Schlossplatz
 Regelungstechnik
 verkehrenden
@@ -35502,7 +35357,6 @@ Wahlperiode
 Umfragen
 eingehend
 Unterschiedliche
-Joysticks
 Geburtsstunde
 Photon
 Brände
@@ -35522,23 +35376,19 @@ Protosprache
 steuerte
 Hammershaimb
 Ungleichheit
-erheblichem
 bergigen
-angenommenen
 Heißluft
 Luigi
 gleiches
 emittiert
 Dritteln
 Diener
-rechtlicher
 Herzinfarkte
 Yard
 dominant
 Getriebe
 Einfügen
 beachteten
-effizienten
 nächst
 Staatssicherheit
 Partnern
@@ -35811,7 +35661,6 @@ Weiterführung
 südöstlichen
 herauszugeben
 Regierungsform
-qualifizieren
 südlichsten
 Filmkunst
 Staatenbund
@@ -35940,7 +35789,6 @@ prägende
 Evelyn
 Copyright
 Estnisch
-literarisches
 Schmid
 Fachschule
 Führungen
@@ -36027,7 +35875,6 @@ Hoffman
 vorausgesagt
 freiwirtschaftliche
 überstieg
-getroffenen
 ablöste
 realer
 eingeschult
@@ -36120,7 +35967,6 @@ Magnetfelder
 mangelnder
 Städtchen
 Krebsarten
-rechtsextremen
 Bewegungsgleichung
 schauspielerische
 übertroffen
@@ -36251,7 +36097,6 @@ Akademien
 Hauptgott
 Erbauer
 Schreckensherrschaft
-maßgeblicher
 Bündnisse
 Berzelius
 katalysieren
@@ -36322,3 +36167,2737 @@ Arbeitslosen
 falscher
 Brigaden
 über
+Abendbrot 'a:b@nt-bRo:t
+Abendessens a:b@nd-Es-@ns
+Abendkasse 'a:b@nt-ka-s@
+Abendprogramm 'a:b@nt-pRo:-gRam
+Abendprogramme 'a:b@nt-pRo-gRam@
+Abendprogramms 'a:b@nt-pRo-gRams
+Abendtermine 'a:b@nt-tE6-mi:-n@
+Abendunternehmungen 'a:b@nt-Un-t6-ne:-mUN-@n
+Abendveranstaltungen 'a:b@nt-fE6-an-Stal-tUN-@n
+Abfahrtsstelle 'ap-fa:Rts-StE-l@
+Abfahrtstermin 'ap-fa:Rts-tE6-mi:n
+Abflugtermin 'ap-flu:k-tE6-mi:n
+Abmärschen ap-mE6-S@n
+Abonnements abO-nE-ma~s
+Abschluß ap-SlUs
+Abschlußarbeiten 'ap-SlUs-aR-baI-t@n
+Abschlußbericht ap-SlUs-b@-RICt
+Abschlußbesprechung ap-SlUs-b@-SpRE-CUN
+Abschlußprüfung 'ap-SlUs-pRy:-fUN
+Abschlußsitzung 'ap-SlUs-zIt-sUN
+Absprache ap-SpRa:-x@
+Abstriche ap-StRi-C@
+Abstürze 'ap-StY6-ts@
+Abstützung ap-StYt-sUN
+Achter 'ax-t6
+Achterbahn 'ax-t6R-ba:n
+Action 'Ek-tS@n
+Actionfilm 'Ek-tS@n-fI-lm
+Actionfilme 'Ek-tS@n-fIl-m@
+Adagio ad'a:-dZo
+Adelheid 'a:d@l-haIt
+AdiosArgentina ad-j'Os-aR-gEn-ti:-na
+Adventswochenende at-v'Ents-vO-x@n-En-d@
+Adventure @d-v'En-tS6
+Aerobic E-Ro-bIk
+Agenda ag'En-da
+Agenturmeldungen agEn-t'u:6-mEl-dUN-@n
+Aibling 'aI-blIN
+Aigner 'aI-gn6
+Aktenordner ak-t@n-O6-dn6
+Aladdin 'ala-di:n
+Allee ale:
+Allerangenehmste 'al-6-an-g@-ne:m-st@
+Allerliebste al-6-l'i:p-st@
+Allison 'ElI-s@n
+Alltägliches al-t'E:k-lIC-@s
+Altersbegrenzung 'alt-6s-b@-gREn-tsUN
+Altheimer 'alt-haI-m6
+Altmeier 'alt-maI-6
+Amerikanistik ame:Ri-ka-nIs-tIk
+Amphitheater am-f'i:-tea:t6
+Anheben '?an-'he:-b@n
+Animationsprogramm ani-ma-tsj'o:ns-pRo-gRam
+Anmeldeschluß 'an-mEl-d@-SlUs
+Anmärschen an-mE6-S@n
+Anschluß an-SlUs
+Anschlußflug 'an-SlUs-flu:k
+Anschlußmöglichkeiten 'an-SlUs-m2:k-lIC-kaI-t@n
+Anschlußzug 'an-SlUs-tsu:k
+Anschriften an-SRIf-t@n
+Anwenderin 'an-vEn-d@-RIn
+Anwenders ?an-vEn-t6s
+Aperitif ap@-RI-ti:f
+Apothekenmuseum apo-te:-k@n-mu-ze:-Um
+Apothekenmuseums apo-te:-k@n-mu-ze:-Ums
+Appetit ape-ti:t
+Arbeitsloser 'aR-baIts-lo:-z6
+Arbeitspaket ?a6-baIts-pa-ke:t
+Arbeitspakete ?a6-baIts-pa-ke:-t@
+Arbeitspaketen ?a6-baIts-pa-ke:-t@n
+Arbeitspaketes ?a6-baIts-pa-ke:-t@s
+Arbeitssitzungen 'aR-baIts-zIt-sUN-@n
+Arbeitsstätte ?a6-baIts-StE-t@
+Arbeitsstätten ?a6-baIts-StE-t@n
+Arbeitstreffens 'aR-baIts-tRE-f@ns
+Archivarin aR-Ci-v'a:-RIn
+Arcor 'aR-ko:6
+Argumentationen a6-gu-mEn-ta-tsjo:-n@n
+Armageddon aR-ma-g'E-dOn
+Arrangements aRa~n-C@-ma~s
+ArteInfo 'aR-t@-In-fo
+Arzttermin 'aRtst-tE6-mi:n
+Asamstraße 'azam-StRa:-s@
+Athos 'a:-tOs
+Attraktives at-Rak-t'i:-v@s
+Atzinger 'at-sIN-6
+Atzingers 'at-sIN-6s
+Aufmärschen ?aUf-mE6-S@n
+Aufschreibsystem 'aUf-SRaIp-zYs-te:m
+Ausgefalleneres 'aUs-g@-fa-l@-n@-R@s
+Ausmachungen 'aUs-ma-xUN-@n
+Ausmärschen ?aUs-mE6-S@n
+Ausruhen 'aUs-Ru:-@n
+Ausschlußtermine 'aUs-SlUs-tE6-mi:-n@
+Ausstattungen aUs-Sta-tUN-@n
+Ausweichmöglichkeit aUs-vaIC-m2:klIC-kaIt
+Ausweispflicht aus-vaIs-pflICt
+Auswärtsspiel 'aUs-vE6ts-Spi:l
+Auswärtstermine 'aUs-vE6ts-tE6-mi:-n@
+Backstube b'ak-Stu:-b@
+Backup bEk-'ap
+Badestelle b'a:-d@-StEl-@
+Bagger b'a-g6
+Baggerlöchern b'a-g6-l9-C6n
+Baggersee b'a-g6-ze
+Baggerseen b'a-g6-ze:@n
+Bahngerüttel b'a:n-g@-RY-t@l
+Baiersdorf b'aI-6s-dO6Rf
+Balkon bal-kON
+Bars ba:Rs
+Basketballspielen b'a-sk@t-bal-Spi:-l@n
+Batch b'EtS
+Baumann b'aU-'man
+Baustoffkunde b'aU-StOf-kUn-d@
+BeBox bOks
+Bebauungsplans b@-b'aU-UNs-pla:ns
+Beckenbodenübungen b'E-k@n-bo:-d@n-y:-bUN@n
+Bedienung b@-di:-nUN
+Bedienungen b@-di:-nUN@n
+Bedienungsanleitungen b@-di:-nUNs-an-laI-tUN@n
+Bedienwünsche b@-'di:n-'vYn-S@
+Bedienwünschen b@-'di:n-'vYn-S@n
+Befestigung b@-fEs-tI-gUN
+Befestigungen b@-'fEs-tI-kUN-@n
+Begleitperson b@-glaIt-pER-zo:n
+Beisammensein baI-z'am-@n-zaIn
+Bella bE-la
+Bemerkungen b@-mE6-kUN-@n
+Benachteiligung b@-nax-taI-lI-gUN
+Benutzbarkeit b@-'nUts-ba6-kaIt
+Benutzern b@-nUt-s6n
+Benutzers b@-nUt-s6s
+Bequemlichkeit b@-kve:m-lIC-kaIt
+Bereitschaft b@-RaIt-Saft
+Bergheimer b'E6k-haIm-6
+Berlinerisch bE6-l'i:-n@-RIS
+Berner bE6-n6
+Berta be6-ta
+Besoffenen b@-z'O-f@n-@n
+Besprechungstermin b@-SpR'E-CUNs-tE6-mi:n
+Besprechungstermins b@-SpR'E-CUNs-tE6-mi:ns
+Besseres b'E-s@-R@s
+Bestuhlung b@-Stu:-lUN
+Bestätigung b@-StE:-tI-gUN
+Bestätigungen b@-StE:-tI-gUN-@n
+Betriebsferien b@-tR'i:ps-fe:6-j@n
+Bettag b'e:t-ta:k
+Betätigung b@-tE:-ti-gUN
+Bevollmächtigte b@-fOl-mEC-tIC-t@
+Bevollmächtigten b@-fOl-mEC-tIC-t@n
+Bevollmächtigter b@-fOl-mEC-tIC-t6
+Bienenflug b'i:-n@n-flu:k
+Bienenstiche b'i:-n@n-StIC@
+Bierchen b'i:6-C@n
+Bierfässchen 'bi:6-fEs-C@n
+Biergärten b'i:6-gE6-t@n
+Bierpäußchen b'i:6-pOYs-C@n
+Bierreste b'i:6-REs-t@
+Binaries baI-n@-ri:s
+Bindestrich bIn-d@-StRiC
+Birds b'96ts
+Blondes bl'Ond@s
+Blum blu:m
+Blutspende bl'u:t-SpEn-d@
+Bläschen 'blE:s-C@n
+Blüschen 'bly:s-C@n
+Bobby b'O-bi
+Bodenpersonal b'o:-d@n-pE6-zo-na:l
+Bordrestaurant b'O6t-REs-to-Ra~
+Boten bo:-t@n
+Boutiquen bu-ti:-k@n
+Bowlen bo:-l@n
+Box bOks
+Boyer bOY-6R
+Brainstorm bR'en-stO6m
+Brezel bR'e:-ts@l
+Brezeln bR'e:-ts@ln
+Brezen bR'e:-ts@n
+Briefchen bRi:f-C@n
+Briefträgerin bR'i:f-tRE:-g@-RIn
+Bruce bru:s
+Bruchsal bR'Ux-za:l
+Brunchen bR'an-S@n
+Brydes bR'aIts
+Brösel bR2:-z@l
+Brötchen bR2:t-C@n
+Buchstabiererei bu:x-Sta-bi:-R@R'aI
+Buchstabierung bu:x-Sta-b'i:-RUN
+Buchungen bu:-xUN-@n
+Buchungsbestätigung b'u:-xUNs-b@-StE:-tI-gUN
+Buckelwale b'U-k@l-va:-l@
+Budgets by:-dS'e:s
+Buffet by:-fe:
+Burger b'96-g6
+BurgerKing b'96-g6-kIN
+Bushaltestelle b'Us-hal-t@-StE-l@
+Bustransfer b'Us-tRans-fe:6
+Butterfässchen 'bU-t6-fEs-C@n
+Buß bu:s
+Bußmonat b'u:s-mo:-nat
+Bußtag b'u:s-ta:k
+Bäckerei bE-k6-RaI
+Böller b'9-l6
+Böllerlein b'9-l6-laIn
+Bücherei by:-C6-RaI
+Bücherregale by:-C6-Re-ga:-l@
+Cabriolet ka-bRi-o-l'e:
+Cafe ka-fe:
+Cafes ka-fe:s
+Cafeteria ka-fe:-t@-R'i:-a
+Cafeterias ka-fe:-t@-R'i:-as
+Canaria ka-n'aR-ja
+Canyon k'En-j@n
+Capella ka-pE-la
+Capuccino ka-pU-tS'i:-no
+Centrum tsEn-tRUm
+Champagner Sam-pan-j6
+Chassis Sa-sI
+Chauffeur So-f2:6
+Chaussee So-se:
+Check tSEk
+Chefetage S'Ef-E-ta:-Z@
+Chefs S'Efs
+Chiemsee k'i:m-ze:
+Chihuahua tSi-u'a:-ua
+Chinatown tS'aI-na-taUn
+Citylight s'I-ti-laIt
+Clownschuhe kl'aUn-Su:@
+Clownsschuhe kl'aUns-Su:@
+Cognac kon-jak
+Coke k'o:k
+Comfort kOmf'o:6
+Compaq k'Om-pak
+Computerbude kOm-pj'u:-t6-bu:-d@
+Computershop kOm-pj'u:-t6-SOp
+Computerzeug kOm-pj'u:-t6-tsOYk
+Copy k'O-pi
+Counter kaUn-t6
+Cousine ku-zi:-n@
+Cousins ku-ze~s
+Creperie kRE-p@-Ri:
+Croissant kRa-s'o~
+Croissants kRa-s'o~s
+Culture k'al-tS6
+Cäsar 'tsE-za6
+Dachgeschoß d'ax-g@-SOs
+Daddy d'E-di
+Dampferfahrt d'am-pf6-fa:Rt
+Datenmeßinstrument d'a:-t@n-mEs-Ins-tRu-mEnt
+Debugger di-b'a-g6
+Dehli d'e:-li
+Deichsel daI-ks@l
+Denkmalschutzes dENk-ma:-l-SUt-s@s
+Dependance di:'pEn-da:s
+Designs di:-saIns
+Dezembers de-tsEm-b6s
+Dienerin di:-n6-RIn
+Dienstage di:ns-ta:-g@
+Dienstagen di:ns-ta:-g@n
+Dienstagstermin d'i:ns-ta:ks-tE6-mi:n
+Dienstbesprechung d'i:nst-b@-SpRE-CUN
+Dienstbesprechungen d'i:nst-b@-SpRE-CUN-@n
+Dienstkalender d'i:nst-ka-lEn-d6
+Dienstplan d'i:nst-pla:n
+Dienstplanbesprechung d'i:nst-pla:n-b@-SpRE-CUN
+Dinger dIN-6
+Direktiven di:-REk-t'i:-v@n
+Disko dI-sko:
+Diskothek dIs-ko-te:k
+Diskotheken dIs-ko-te:-k@n
+Diva di:-va
+Divas di:-va:s
+Doktorandentreffen dOk-to-R'an-d@n-tRE-f@n
+Doktorandinnen dOk-to:-Ran-dIn-@n
+Dokumentationen do:-ku:-mEn-ta-'tsjo:-n@n
+Dokumentes do:-ku:-mEn-'t@s
+Dokuments do:-ku:-mEn'ts
+Doppelte d'O-p@l-t@
+Doppelverglasung d'O-p@l-fE6-gla:-zUN
+Doppelzimmer d'O-p@l-tsI-m6
+Dornröschen 'dORn-R2:s-C@n
+Dos d'Os
+Dozentin do-ts'En-tIn
+Drehrestaurant dR'e:-REs-to-Ra~
+Dreikönigeg dRaI-k2:-nIk-?Ek
+Drucken dRU-k@n
+Druckpatrone dR'Uk-pa-tRo:-n@
+Drumherum dRUm-hE-R'Um
+Drücker dRY-k6
+Duft 'dUft
+Dummy damI
+Durchhänger d'U6C-hEN-6
+Durchmärschen ?'dU6C-mE6-S@n
+Dusche du:-S@
+Döschen 'd2:s-C@n
+Eberharting 'e:-b6-haR-tIN
+Eberle 'e:-b6-l@
+Eberswalde e:-b6s-v'al-d@
+Ebert e:-b6t
+Eble 'e:-bl@
+Ebrach 'e:-bRax
+Eckstraße 'Ek-StRa:-s@
+Eckweg 'Ek-ve:k
+Eggers 'Eg-6s
+Einarbeitung aIn-a6-baI-tUN
+Eindrücken aIn-dRY-k@n
+Einfluß aIn-flUs
+Einflußmöglichkeiten 'aIn-flUs-m2:-klIC-kaI-t@n
+Einmärschen ?aIn-mE6-S@n
+Einreichungsschluß 'aIn-RaI-CUNs-SlUs
+Einschreiblisten 'aIn-SRaIp-lIs-t@n
+Eintragungen aIn-tRa:-gUN-@n
+Einzelblöcke 'aIn-ts@l-bl9-k@
+Einzeltermine 'aIn-ts@l-tE6-mi:-n@
+Einzelveranstaltungen 'aIn-ts@l-fE6-an-Stal-tUN-@n
+Eiscafe 'aIs-ka-fe:
+Eiscafes 'aIs-kaf-e:s
+Elegie e-le:-gi-@
+Elegien ele:gi@n
+Elektro e:lEk-tRo:
+Elektromobil e:lEk-tRo:-mo:-bi:l
+Elektromobile e:lEk-tRo:-mo:-bi:-l@
+Elektromobilen e:lEk-tRo:-mo:-bi:-l@n
+Elektromobiles e:lEk-tRo:-mo:-bi:-l@s
+Elektromobils e:lEk-tRo:-mo:-bils
+Elektrorollstühle e:lEk-tRo:-ROl-Sty:-l@
+Elektrorollstühlen e:lEk-tRo:-ROl-Sty:-l@n
+Elitäres e-li-t'E:-R@s
+Elke 'El-k@
+Elsen 'El-z@n
+Elternabend 'El-t6n-a:-b@nt
+Emacs i:-mEks
+Emanuel em'a:-nuel
+Emergency i-'m96-dZ@n-tsi
+Emmi 'E-mi
+Endeffekt 'Ent-E-fEkt
+Engelhorn 'EN-@l-hO6n
+Entscheidbarkeit Ent-S'aIt-baR-kaIt
+Entscheidungsfindung Ent-SaI-dUNs-'fIn-dUN
+Equipment E-kv'Ip-mEnt
+Erachtens ?E6-ax-t@ns
+Erdbeeren 'e:6t-be:-R@n
+Erdgeschoß e:6t-g@-Sos
+Erding 'E6-dIN
+Erdnüsschen e:6t-nYs-C@n
+Erhebungen E6-he:-bUN@n
+Erholungspausen E6-h'o:-lUNs-paU-z@n
+Erholungsplätze E6-h'o:-lUNs-plEt-s@
+Erie 'e:-Ri
+Erkennbarkeit '?E6-kEn-ba:6-kaIt
+Erkennung '?E6-kE-nUN
+Erlebnisschwimmbad E6-l'e:b-nIs-SvIm-ba:t
+Erledung E6-le:-dUN
+Ermäßigung E6-mE:-sI-gUN
+Ermäßigungen E6-mE:-sI-gUN-@n
+Ersparnis E6-Spa:6-nIs
+Erstsemestervorlesung 'e:6st-ze-mEs-t6-fo:6-le:-zUN
+Erörtertes '?E6-?9R-t6-t@s
+Erörterung '?E6-?9R-t6-RUN
+Erörterungen '?E6-?9R-t6-RUN-@n
+Eschede 'E-S@-d@
+Eschen E-S@n
+Espressobar Es-pR'E-so-ba:R
+Espressostand Es-pR'E-so-Stant
+Esther 'e:-st6
+Etage e-ta:-Z@
+Ethnologie Et-no-lo-gi:
+Etikett ?EtI-k@t
+Etikette ?EtI-k@-t@
+Etiketten ?EtI-k@-t@n
+Etikettierung ?EtI-k@ti:-RUN
+Etiketts ?EtI-k@ts
+Ettlingen 'Et-lIN-@n
+Eulen OY-l@n
+Europcar 'OY-ROp-ka:6
+Eutin OY-t'i:n
+Evaluierung e-va:-lui:-RUN
+Ewigkeiten e:-vIC-kaI-t@n
+Excel 'Ek-s@l
+Exiljahre Ek-s'i:l-ja:-R@
+Fachstuhlstudium fax-StUl-Stu:-djUm
+Fahrerei fa:-R6-RaI
+Fahrgastes fa:R-gast-@s
+Fahrkarten f'a:R-ka:R-t@n
+Fahrkosten f'a:R-kOs-t@n
+Fahrplänen f'a:R-plE:-n@n
+Fahrstunde f'a:R-StUn-d@
+Familiennotruf fa-m'i:l-j@n-no:t-Ru:f
+Fasanerie fa-za:-ne-Ri:
+Faschingsbeginn f'a-SINs-b@-gIn
+Faschingstagen f'a-SINs-ta:-g@n
+Fax f'aks
+Faxzusendung f'aks-tsu:-zEn-dUN
+Fazit fa:-sIt
+Fazite fa:-sI-t@
+Fazits fa:-sIts
+Fehlermeldungen f'e:-l6-mEl-dUN-@n
+Feldschlösschen fElt-Sl9s-C@n
+Fenstern fEn-st6n
+Fensters fEn-st6s
+Fernbedienung f'E6n-b@-di:-nUN
+Fernsehabend f'E6n-ze:-a:b-@nt
+Fernsehsendung f'E6n-ze:-zEn-dUN
+Fernsehsessel f'E6n-ze:-zE-s@l
+Fichtinger f'IC-tIN-6
+Fieberbrunn fi:-b6-bR'Un
+Fiesta fi'Es-ta
+FightClub f'aIt-klap
+File f'aIl
+Files f'aIls
+Filialleiterin fil-j'a:l-laI-t@-RIn
+Filmausschnitte f'Ilm-aUs-SnI-t@
+Filofax f'aI-lo-faks
+Finanzplanung fi-n'ants-pla:-nUN
+Firmenjet f'I6-m@n-dZEt
+Fischerkneipe f'I-S6-knaI-p@
+Fitnesscenter f'It-nEs-sEn-t6
+Fitneß f'It-nEs
+Fitneßcenter f'It-nEs-sEn-t6
+Fliegerei fli:-g@-RaI
+Flowchart fl'o:-tSa:Rt
+Floyd fl'OYt
+Fluß flUs
+Flußfahrt fl'Us-fa:Rt
+Flyer fl'aI-6
+Flösschen 'fl2s-C@n
+Flüsschen 'flYs-C@n
+Folie fo:-li-@
+Formalia fO6-m'a:l-ja
+Freaks fR'i:ks
+Freerider fri:raI-d6
+Freigabeklausel fR'aI-ga:-b@-klaU-z@l
+Freigabeklauseln fR'aI-ga:-b@-klaU-z@ln
+Freilassing fRaI-l'a-sIN
+Freisinger fR'aI-zIN-6
+Freistellungsverfahren fR'aI-StE-lUNs-fE6-fa:-R@n
+Freitagstraining fR'aI-ta:ks-tRe:-nIN
+Fremdenverkehrsamt fR'Em-d@n-fE6-ke:6s-amt
+Fresschen 'fREs-C@n
+Freyer fR'aI-6
+Frisbee fR'Is-bi
+Fräulein fROY-laIn
+Frühaufsteher fR'y:-aUf-Ste:-6
+Frühaufsteherin fR'y:-aUf-Ste:-@-RIn
+Frühstücksbuffet fR'y:-StYks-bY-fe:
+Funkfernschreibdienst f'UNk-fE6n-SRaIp-di:nst
+Funkturm f'UNk-tU6m
+Furie fu:-Ri-@
+Fußgänger fu:s-gEN-6
+Fußgängern fu:s-gEN-6n
+Fußgängers fu:s-gEN-6s
+Fässchen 'fEs-C@n
+Förderband f'96-d6-bant
+Führungslaschen fy:-RUNs-la-S@n
+Füsschen 'fy:s-C@n
+Gabeln ga:-b@ln
+Ganges 'gaN-@s
+Garagen ga-Ra:-Z@n
+Gashebel ga:s-he:-b@l
+Gebieterin g@-bi:-t6-RIn
+Geburtstagsgeschenke g@-b'u:6ts-ta:ks-g@-SEN-k@
+Geburtstagskuchen g@-b'u:6ts-ta:ks-ku:-x@n
+Geburtstagsshow g@-bu:6ts-ta:ks-So:
+Gehobeneres g@-h'o:-b@-n@-R@s
+Gehrmann g'e:6-man
+Geistern gaIst-6n
+Gele S@-'le:
+Geller g'E-l6
+Gemütlicheres g@-m'y:t-lI-C@-R@s
+Gemütsmenschen g@-'my:ts-'mEn-S@n
+Georgengarten g'e:-O6-g@n-gaR-t@n
+Georgiana dZO6-dZj'a:-na
+Gepäckstück g@-pEk-StYk
+Gepäckstücke g@-pEk-StY-k@
+Gepäckstückes g@-pEk-StY-k@s
+Gepäckstücks g@-pEk-StYks
+Gerholzer g'e:6-hOl-ts6
+Gerholzner g'e:6-hOl-tsn6
+Germering g'E6-m@-RIN
+Gersthofen g'E6st-ho:-f@n
+Gertraud g'E6-tRaUt
+Gerüst g@-RYst
+Gerüstes g@-RYst@s
+Gerüsts g@-RYsts
+Geschenke g@-SEN-k@
+Geschichtsbücher g@-S'ICts-by:-C6
+Geschirr g@-SI6
+Geschleppe g@-Sl'E-p@
+Geschäftchen g@-SEft-C@n
+Geschäftsessens g@-S'Efts-Es-@ns
+Geschäftstermine g@-S'Efts-tE6-mi:-n@
+Gespräches g@-SpRE:-C@s
+Gesprächstermine g@-SpRE:Cs-t6-mi:-n@
+Gewindeschneiden g@-v'In-d@-SnaI-d@n
+Giardino dZaR-d'i:-no
+Giftnotruf g'Ift-no:t-Ru:f
+Gildehof g'Il-d@-ho:f
+Giora dZ'o-Ra
+Giovanelli dZo-va-n'E-li
+Gitschen gIt-S@n
+Glassenhart gl'a-s@n-haRt
+Glotze gl'Ot-s@
+Gläschen 'glE:s-C@n
+Gospelkonzert g'O-sp@l-kOn-tsE6t
+Gottchen g'Ot-C@n
+Gourmetrestaurant gU6-m'e:-REs-to-Ra~
+Graphem gRa-fe:m
+Grenzlinie gREnts-li:-ni:-@
+Grenzlinien gREnts-li:-ni:-@n
+Grenzweg gR'Ents-ve:k
+Grenzwert gREnts-ve:6t
+Grenzwerte gREnts-ve:6-t@
+Grenzwerten gREnts-ve:6-t@n
+Grenzwertes gREnts-ve:6-t@s
+Grenzöffnung gR'Ents-9fnUN
+Gretel gR'e:-t@l
+Griechischbücher gR'i:-CIS-by:C-6
+Griechstrasse gR'i:C-StRa:-s@
+Grillfestchen gR'Il-fEst-C@n
+Großschiffahrtskanal gR'o:s-SIf-fa:Rts-ka-na:l
+Großwagen gR'o:s-va:-g@n
+Gruber gR'u:-b6
+Grusitsch g'Ru:-zItS
+Gstanzlsingen gStantsl-zIN-@n
+Gurken gU6-k@n
+Gustavs gus-tafs
+Gutschrift gu:t-SRIft
+Gymnastik gYm-nas-tIk
+Gänschen 'gEns-C@n
+Gänsemärschen gEn-s@-mE6-S@n
+Gässchen 'gEs-C@n
+Hackenberg h'a-k@n-bE6k
+Haftelmacher h'af-t@l-ma-x6
+Haie haI-@
+Halbes h'al-b@s
+Halbpension h'alp-pEn-zjo:n
+Handküsschen hant-kYs-C@n
+Handout h'Ent-aUt
+Handtäschchen hant-tES-C@n
+Hanserverlag h'an-z6-fE6-la:k
+Hanseverlag h'an-z6-fE6-la:k
+Hardwareanforderungen h'aRt-ve:6-an-fO6-d@-RUN-@n
+Haselnüsschen ha:-z@l-nYs-C@n
+Hauptkalender h'aUpt-ka-lEn-d6
+Hauptseminararbeit h'aUpt-ze-mi-n'a:R-'aR-baIt
+Hauptseminararbeiten h'aUpt-ze-mi-n'a:R-'aR-baIt-@n
+Haushälterin haUs-hEl-t6-RIn
+Haxen hak-s@n
+Hearings h'i:-RINs
+Heftchen hEft-C@n
+Hengstler h'ENst-l6
+Henrici h'En-Rit-Si
+Herbstschuhe h'E6pst-Su:-@
+Herfahrerei he:6-fa:-R@-R'aI
+Herschieberei he:6-Si:-b@-R'aI
+Hexe hEk-s@
+Hillers h'I-l6s
+Hinausschieben hI-n'aUs-Si:-b@n
+Hintersten h'In-t6s-t@n
+Hobbies h'O-bis
+Hochformat h'o:x-fO6-ma:t
+Hochstetter h'o:x-StE-t6
+Hochzeiten hOx-tsaI-t@n
+Hochzeitskleider h'Ox-tsaIts-klaI-d6
+Hochzeitskleidern h'Ox-tsaIts-klaI-d6n
+Hockenheim h'O-k@n-haIm
+Hoffmanns h'Of-mans
+Hoffner h'Of-n6
+Holger h'Ol-g6
+Holiday hO-li-deI
+Homepage h'o:m-pe:dZ
+Hoppel h'O-p@l
+Horoskop hO-R'o:s-ko:p
+Hosentasche h'o:-z@n-taS-@
+Hostel h'Os-tl
+Hostels h'Os-tls
+Hosteß hOs-tEs
+Hotelbuchen ho-t'El-bu:-x@n
+Hotelbuchung ho-t'El-bu:-xUN
+Hotellobby ho-t'El-lO-bi
+Hoteln ho-t'Eln
+Hotelreservierung ho-t'El-Re-zE6-vi:-RUN
+Hotelreservierungen ho-t'El-Re-zE6-vi:-RUN-@n
+Hotelunterkunft ho-t'El-Un-t6-kUnft
+Hotelverzeichnis ho-t'El-fE6-tsaIC-nIs
+Hotelzimmerreservierung ho-t'El-tsIm-6-Re-zE6-v'i:-RUN
+Hotelübernachtung ho-t'El-y:-b6-nax-tUN
+Hotlines h'Ot-laIns
+Hundekrankheiten h'Un-d@-kRaNk-haI-t@n
+Hundskugel h'Unts-ku:-g@l
+Husum h'u:-zUm
+Hänschen hEns-C@n
+Häschen 'hE:s-C@n
+Häuschen 'hOYs-C@n
+Höchstätter h'2:C-StE-t6
+Hölzer h9l-ts6
+Höschen 'h2:s-C@n
+Ibis ibIs
+If 'If
+Ihrem i:-R@m
+Ikea ik'e:a
+Immatrikulation I-ma-tRi-ku-la-tsjo:n
+Immatrikulationsbestätigung I-ma-tRi-ku-la-tsj'o:ns-b@-StE:-tI-gUN
+Indonesisch In-do:-n'e:-zIS
+Ines 'i:-nEs
+Ingenieurin In-Zen-j'2:-RIn
+Ingo IN-go:
+Inspektion In-SpEk-tsj'o:n
+Inspektionsreise In-SpEkt-sj'o:ns-RaI-z@
+Intensivpraktikum In-tEn-z'i:f-pRak-ti-kUm
+Interoperabilität In-t@R-o:p@-Ra-bi:-li:-tE:t
+Iowa 'aI-o-'va
+Irish aI-RIS
+Italia i-t'a:l-ja
+Jahresabschluß ja:-R@s-ap-SlUs
+Jahresquartal j'a:-R@s-kvaR-ta:l
+Jalcin j'alt-sIn
+Jawort j'a:-vO6t
+Jazzkneipe dZ'Es-knaI-p@
+Jehniken j'e:-nI-k@n
+Jet dZEt
+Joystick dZOI-stIk
+Joysticks dZOI-stIks
+Jugendstilzeit j'u:-g@nt-Sti:l-tsaIt
+Julei ju-laI
+Junitermine j'u:-ni-tE6-mi:-n@
+Juno j'u:-no:
+Jurkeit j'U6-kaIt
+Jänisch jE:-nIS
+Kalendermonat ka-lEn-d6-mo:-nat
+Kalenderspalte ka-l'En-d6-Spal-t@
+Kalenderspalten ka-l'En-d6-Spal-t@n
+Kalenderwoche ka-lEn-d6-vO-x@
+Kalenderwochen ka-lEn-d6-vO-x@n
+Kalisalz k'a:-li-zalts
+Kamenz k'a:-mEnts
+Kaminkalender ka-m'i:n-ka-lEn-d6
+Karfreitag ka:R-fR'aI-ta:k
+Karnevalsnarr k'aR-n@-vals-naR
+Karnevalswochenende k'aR-n@-vals-vO-x@n-En-d@
+Karsamstag ka:R-z'ams-ta:k
+Karteikarten kaR-t'aI-kaR-t@n
+Kartenabreißer k'aR-t@n-ap-RaI-s6
+Kartoffelbrei kaR-t'O-f@l-bRaI
+Karton ka6-'toN
+Kartons ka6-'toNs
+Kastanie 'kas-ta:-ni-@
+Kataloge ka-ta-lo:-g@
+Kehlheim k'e:l-haIm
+Keltenweg k'El-t@n-ve:k
+Kerstin k'E6s-ti:n
+Kinoreservierung k'i:-no-Re-zE6-vi:-RUN
+Kippstütze kIp-StYt-s@
+Kippstützen kIp-StYt-s@n
+Kir ki:6
+Klassikfan kl'a-sIk-fE:n
+Klassikstück kl'a-sIk-StYk
+Klausurtag klau-zu6-ta:k
+Klausurtage klau-zu6-ta:-k@
+Kleinigkeit klaI-nIC-kaIt
+Kleinigkeiten klaI-nIC-kaI-t@n
+Klemens kl'e:-m@ns
+Klemer kl'e:-m6
+Klitsche klIt-S@
+Klitscher klIt-S6
+Klonierungen klo:-n'i:-RUN-@n
+Klosterruine kl'o:-st6-Rui:-n@
+Klotz klOts
+Knallfrösche knal-fR9-S@
+Knallfröschen knal-fR9-S@n
+Knappheit knap-haIt
+Kneipe knaI-p@
+Kneipen kn'aI-p@n
+Kneipenbesuch kn'aI-p@n-b@-zu:x
+Kneipentour kn'aI-p@n-tu:6
+Knicklasten kn'Ik-las-t@n
+Knipp kn'Ip
+Knochenkopf kn'O-x@n-kOpf
+Knodt kn'Ot
+Koffer kO-f6
+Koffertragen k'O-f6-tRa:-g@n
+Kollek k'O-lEk
+Komfort kOm-fo:6
+Komforthotel kOm-f'o:6-ho-tEl
+Kommentatoren kO-m@n-ta-to:-R@n
+Kommissioniererei kO-mIs-jo-ni:-R@-R'aI
+Kompaktseminar kOm-pakt-ze-mi-na:6
+Komplettpaket kO-mpl'Et-pa-ke:t
+Kompromis kOm-pRo-mIs
+Kompromisse kOm-pRo-mI-s@
+Kompromissen kOm-pRo-mI-s@n
+Kompromisses kOm-pRo-mI-s@s
+Kompromiß kOm-pRo-mIs
+Kompromißvorschlag kOm-pRo-m'Is-fo:6-Sla:k
+Kongreß kOn-gREs
+Konsistenz kOn-zIs-tEnts
+Konsistenztheorie kOn-zIs-t'Ents-te-oRi:
+Kontrollen kOn-tRO-'l@n
+Kontrolleure kOn-tRO-l2:-R@
+Konzerthörer kOn-ts'E6t-h2:-R6
+Kopfhörer k'Opf-h2:-R6
+Kopierer ko:-pi:-R6
+Korpus kO6-pUs
+Kotzen kOt-s@n
+Krabben kRa-b@n
+Kraftomnibus kRaft-omni:-bUs
+Kraftomnibusse kRaft-omni:-bUs-@
+Krankengymnastik kR'aN-k@n-gYm-nas-tIk
+Krankenhäuschen 'kRaN-k@n-hOYs-C@n
+Krankheitsherde kR'aNk-haIts-he:6-d@
+Krekow kR'e:-kOf
+Kronsberger kR'o:ns-bE6-g6
+Kröpcke kR9p-k@
+Kuchen ku:-x@n
+Kuchenbuffet k'u:-x@n-bY-fe:
+Kuckuck kU-kUk
+Kufstein k'uf-StaIn
+Kulturkalender kUl-t'u:6-ka-lEn-d6
+Kurhaus k'u:6-haUs
+Kusinen kU-zi:-n@n
+Kutschen kUt-S@n
+Käfig kE:-fIC
+Kästen kEs-t@n
+Köche k9-C@
+Köchen k9-C@n
+Kölsch k9lS
+Köpp k'9p
+Körperbehinderter k9R-p6-b@-hIn-d6-t6
+Kügler k'y:g-l6
+Küsschen 'kYs-C@n
+Labelung l'E:-b@-lUN
+Labors la-bo:6s
+Labs lEps
+Ladegerät la:-d@-g@-REt
+Ladegeräte la:-d@-g@-RE-t@
+Ladies l'E:-dis
+Landessternwarte lan-d@s-St'E6n-vaR-t@
+Langemann l'a-N@-man
+Langlaufskier l'aN-laUf-Si:-6
+Laptops l'Ep-tOps
+Laster las-t6
+Lasterlöchli l'as-t6-l9C-li
+Lautern l'aU-t6n
+Lavergne la-v'E6n-j@
+Lebensabschnittsgefährte le:-b@ns-'ap-SnIts-g@-fE:6-t@
+Lebkuchen l'e:b-ku:-x@n
+Lehne le:-n@
+Leitungsaphasiker l'aI-tUNs-afa:-zI-k6n
+Leitungsaphasikern l'aI-tUNs-afa:-zI-k6n
+Lesbarkeit 'le:z-ba:R-kaIt
+Leyerweber l'aI-6-ve:-b6
+Leyweber l'aI-ve:-b6
+Libraries l'aI-br@-ris
+Lichtchen lICt-C@n
+Lichtspieltheater l'ICt-Spi:l-tea:-t6
+Lieblingshotel l'i:p-lINs-ho-tEl
+Lieblingssender l'i:p-lINs-zEn-d6
+Lieblingsstar l'i:p-lINs-Sta:R
+Liebste l'i:p-st@
+Lieferschein l'i:-f6-SaIn
+Lieferwagen l'i:-f6-va:-g@n
+Liegestützen l'i:-g@-StY-ts@n
+Lieschen 'li:s-C@n
+Limit li-mIt
+Limits li-mIts
+Linuxen l'i:-nUk-s@n
+Literaturrecherche lI-t@-Ra-t'u:6-Re-SE6-S@
+Lobby lO-bi
+Lotto lO-to
+Lotz l'Ots
+Lubkoll lUp-kOl
+Lucky l'a-ki
+Luftseilbähnchen l'Uft-zaIl-bE:n-C@n
+Lunch l'anS
+Lunchmeeting l'anS-mi:-tIN
+Luxushotel l'Uk-sUs-hot-El
+Luxusrestaurant l'Uk-sUs-REs-to-Ra~
+Luxusrestaurants l'Uk-sUs-REs-toR-a~s
+Lyle l'aIl
+Magisterarbeit ma-g'Is-t6-aR-baIt
+Magisterprüfung ma-g'Is-t6-pRy:-fUN
+Mahnwesen m'a:n-ve:-z@n
+Maier m'aI-6
+Maifeiertag m'aI-faI-6-ta:k
+Maihälfte m'aI-hElf-t@
+Maitermine m'aI-tE6-mi:-n@
+Makrele ma-kRe-l@
+Mallinckrodt m'a-lINk-Ro:t
+Mama ma-ma
+Mammet m'a-me:
+Mammutsätze m'a-mu:t-zEt-s@
+Managerin m'E-nEd-Z@-RIn
+Mandeltee m'an-d@l-te:
+Mannhein man-haIn
+Manning m'E-nIN
+Mappe ma-p@
+Marceau maR-s'o
+Maredo ma-R'e:-do
+Mariusch m'a-Ri-US
+Mariä ma-Ri:-Eh
+Marketing m'aR-k@-tIN
+Marktforschung m'aRkt-fO6-SUN
+Marktlücke m'aRkt-lY-k@
+Marktplatzes m'aRkt-plats-@s
+Marktstraße m'aRkt-StRa:-s@
+Marmelade ma6-mE-la:-d@
+Marriott m'E-RI-jEt
+Marriotts mE-RI-jEts
+Marschall maR-Sal
+Martina maR-t'i:-na
+Maschsee m'aS-ze:
+Mathe m'a-t@
+Matlock m'Et-lOk
+Mattheis m'a-taIs
+Matysiak m'a-tI-sjak
+Mauerkircherstraße m'aU-6-kI6-C6-StRa:-s@
+Maßgabe ma:s-ga:-b@
+Meesters m'e:s-t6s
+Meeting mi:-tIN
+Meldestelle m'El-d@-StE-l@
+Mengele m'EN-@-l@
+Mensaessen m'En-za-Es@n
+Menue me-ny:
+Mercure mE6-k'y:6
+Mergentheim m'E6-g@nt-haIm
+Metronom me-tRo-no:m
+Mexikaner mEk-si-ka:-n6
+Mikrofon mi-kRo-fo:n
+Mila mi:-la
+Milano mi-l'a:-nO
+Mindestalter mIn-d@st-al-t6
+Mindestanforderung mIn-d@st-an-fOR-d@-RUN
+Mindestanforderungen mIn-d@st-an-fOR-d@-RUN-@n
+Ministerin mi-n'Is-t@-RIn
+Mitarbeiterin m'It-aR-baI-t@-RIn
+Mitbewohnerinnen m'It-b@-vo:-n@-RIn-@n
+Mittags mI-ta:ks
+Mittagsschläfchen m'I-ta:ks-SlE:f-C@n
+Mobil mo:-bi:l
+Mobilität mo:-bi:-li:-tE:t
+Moers m96s
+Momentchen mo-m'Ent-C@n
+Monatskalender m'o:-nats-ka-lEn-d6
+Monatskalenders m'o:-natska-lEn-d6s
+Monitorfarbcode m'o:-ni-to:6-faRp-ko:t
+Montand mo~-t'a~
+Motherboard m'a-T6-bO6t
+Motivationsproblem mo-ti-va-tsj'o:ns-pRo-ble:-m
+Motivationsprobleme mo-ti-va-tsj'o:ns-pRo-ble:-m@
+Motorroller 'mo:-tO6-Ro-l6
+Motorsäge m'o:-to6-zE:-g@
+Mueller m'Y-l6
+Musikdatei mu-z'i:k-da-taI
+Muskel m'Us-k@l
+Muskelschichten m'Us-k@l-SIC-t@n
+Musset my-s'E:
+Märschen mE6-S@n
+Mäuschen 'mOYs-C@n
+Möckl m'9kl
+Möllenkamp m'9-l@n-kamp
+Möller m9-l6
+Müllersche m'Y-l6-S@
+Nachhauseweg na:x-h'aU-z@-ve:k
+Nadeldöschen 'na:-d@l-d2:s-C@n
+Nadine na-d'i:n
+Navigationssystem na-vi-ga-tsj'o:ns-zY-ste:m
+Navigationssysteme na-vi-ga-tsj'o:ns-zY-ste:-m@
+Navigationssystemen na-vi-ga-tsj'o:ns-zY-ste:-m@n
+Navigationssystemes na-vi-ga-tsj'o:ns-zY-ste:-m@s
+Neckarsteinach nE-kaR-St'aI-nax
+Nehrlinger ne:6-lIN-@R
+Neill n'i:l
+Netzwerksoftware n'Ets-vE6k-sOft-ve:6
+Neunzigern nOYn-tsI-g6n
+Neuperlach nOY-p'E6-lax
+Newell nj'U-@l
+News nj'u:s
+Newscenter nj'u:s-sEnt6
+Nichtraucherin n'ICt-RaU-x@-RIn
+Nichtraucherzimmer n'ICt-RaU-x6-tsI-m6
+Nicklas n'I-klas
+Nicole ni-k'Ol
+Nieh ni:
+Niehmeyer n'i:-maI-@
+Nishimoto ni:-Si-m'o:-to
+Nitroglyzerin ni-tRo-gly-tse-R'i:n
+Nobelhotel n'o:-b@l-ho-tEl
+Notizbuch no:-t'i:ts-bu:x
+Nudelgericht n'u:-d@l-g@-RICt
+Nudelgerichte n'u:-d@l-g@-RIC-t@
+Nummerierung nUm@Ri:RUN
+Nut nu:t
+Nähler n'E:-l6R
+Oberau 'o:b@R-aU
+Oberbadgasse 'o:b6-ba:t-ga-s@
+Oberforstdirektion o:b6-f'O6st-di-REkts-jo:n
+Oberforstdirektionszeit o:b6-f'O6st-di-REkts-jo:ns-tsaIt
+Oberföhring o:b6-f'2:-RIN
+Oberföhringer o:b6-f'2:-RIN-6
+Oberförster o:b6-f9R-st6
+Oberförsterin o:b6-f9R-st6-RIn
+Obergeschosses o:-b6-g@-SO-s@s
+Oberstufenschüler 'o:b6-Stu:-f@n-Sy:-l6
+Oberstufenschülerin 'o:b6-Stu:-f@n-Sy:-l6-in
+Oberstufenschülerinnen 'o:b6-Stu:-f@n-Sy:-l6-Ri-n@n
+Oberstufenschülern 'o:b6-Stu:-f@n-Sy:-l6n
+Oertel '96-t@l
+Ohres o:-R@s
+Oliven o-l'i:-v@n
+Olivenöl o-l'i:-v@n-2:l
+Olympiadorf o-l'Ym-pja-dO6f
+Olympiaturm o-l'Ym-pja-tU6m
+Opa o-pa
+Operette o:-p6-RE-t@
+Osterdienstag o:-st6-d'i:ns-ta:k
+Osterfeiertage 'o:-st6-faI-6-ta:-g@
+Osterfeiertagen 'o:-st6-faI-6-ta:-g@n
+Osterferien 'o:-st6-fe:6-j@n
+Osterholz o:-st6-hOlts
+Ostermann 'o:-st6-man
+Ostermontag o:-st6-m'o:n-ta:k
+Ostersamstag o:-st6-z'ams-ta:k
+Ostersonntag o:-st6-z'On-ta:k
+Ostertage 'o:-st6-ta:-g@
+Ostertagen 'o:-st6-ta:-g@n
+Osterwoche 'o:-st6-vO-x@
+Osterwochen 'o:-st6-vO-x@n
+Osterwochenende 'o:-st6-vO-x@n-En-d@
+Pagemaker p'e:tS-me:-k6
+Panik pa:-nIk
+Papierchen pa-p'i:6-C@n
+Papierführungslaschen pa-pi:6-fy:-RUNs-la-S@n
+Parkweg p'aRk-ve:k
+Parterre pa6-tE6
+Peimann p'aI-man
+Pelikan pe:-li-ka:n
+Peugeot p2-Z'o:
+Pfadfinderlager pf'a:t-fIn-d6-la:-g6
+Pfarrern pf'a-R6n
+Pfeffergasse pf'E-f6-ga-s@
+Pfingstdienstag pfINst-d'i:ns-ta:k
+Pfingstferien pf'INst-fe:6-j@n
+Pfingstmontag pfINst-m'o:n-ta:k
+Pfingstsonntag pfINst-z'On-ta:k
+Philosophenweg fi-lo-z'o:-f@n-ve:k
+Phonetik fo:-ne:-tIk
+Photoshop f'o:-to-SOp
+Physikertagung f'y:-zIk6-ta:-gUN
+Pinakothek pi-na-ko-t'e:k
+Plakette pla-ke-t@
+Plenarvorträge ple-n'a:R-fo:6-tRE:-g@
+Plenarvorträgen ple-n'a:R-fo:6-tRE:-g@n
+Plex plEks
+Plätzchen plEts-C@n
+Poloclub p'o:-lo:-klUp
+Poloklub p'o:-lo:-klUp
+Portraits pO6-tRE:s
+Postscript p'Ost-skRIpt
+Prix pR'i:
+Problemchen pRo-bl'e:m-C@n
+Problems pRo:-'ble:ms
+Produktpräsentation pRo-d'Ukt-pRE-zEn-tats-jo:n
+Prodöhl pRo-d2:l
+Projektabschluß pRo-j'Ekt-ap-SlUs
+Prosciutto pRo-S'U-tO
+Prospekte pRos-pEk-t@
+Providenzkirche pRo-vi-d'Ents-kI6-C@
+Präferenz pRE:-f@-REnts
+Präferenzen pRE:-f@-REn-ts@n
+Präsentationen pRE-zEn-tat-sjo:-n@n
+Prüfungsamt pR'y:-fUNs-'amt
+Psychologievorlesung psy:-Co:-lo:-'gi:-fo:6-le:-zUN
+Pub p'ap
+Puck pUk
+Pudding pU-dIN
+Putzstelle p'Uts-StE-l@
+Pätsch p'EtS
+Päuschen p?OYs-C@n
+Pöttchen p'9t-C@n
+Quartalen kva6-ta:-l@n
+Quartales kvaR-t'a:-l@s
+Quartals kva6-ta:ls
+Quartaltreffen kvaR-t'a:l-tRE-f@n
+Quell kvEl
+Querbeschleunigungen kve:6-b@-SlOY-nI-gUN-@n
+Querschnittgelähmte 'kve:6-SnIt-g@-lE:m-t@
+Querschnittgelähmtem 'kve:6-SnIt-g@-lE:m-t@m
+Querschnittgelähmten 'kve:6-SnIt-g@-lE:m-t@n
+Querschnittgelähmter 'kve:6-SnIt-g@-lE:m-t6
+Querschnittsgelähmte 'kve:6-SnIts-g@-lE:m-t@
+Querschnittsgelähmtem 'kve:6-SnIts-g@-lE:m-t@m
+Querschnittsgelähmten 'kve:6-SnIts-g@-lE:m-t@n
+Querschnittsgelähmter 'kve:6-SnIts-g@-lE:m-t6
+Querschnittsgelähmtes 'kve:6-SnIts-g@-lE:m-t@s
+Querschnittslähmung 'kve:6-SnIts-lE:-mUN
+Querstrich kv'e:6-StRIC
+Quincy kv'In-tsi
+Quittung kvI-tUN
+Quäker kvE:-k6
+Radeberger R'a:-d@-bE6-g6
+Rademacher R'a:-d@-ma-x6
+Radieschen 'Ra-di:s-C@n
+Radl R'a:dl
+Radlkurier R'a:d@l-ku-Ri:6
+Raucherabteil R'aU-x6-ap-taIl
+Rechenzentrum RE-C@n-tsEn-tRUm
+Recherche Re-SE6-S@
+Rechnungsablage R'EC-nUNs-'ap-la:-g@
+Rechnungslegung R'EC-nUNs-le:-gUN
+Rechnungsprüfer R'EC-nUNs-pRy:-f6
+Rechtsverordnungen RECts-fE6-?O6d-nUN-@n
+Redaktionen Re-dak-tsjo:-n@n
+Referat RE-fE-Ra:t
+Referate Re-f@-Ra:-t@
+Referaten Re-f@-Ra:-t@n
+Referendare Re-f@-REn-da:-R@
+Referenten Re-f@-REn-t@n
+Referenzen RE-fE-REn-ts@n
+Regelmäßigkeit Re:-g@l-mE:-sIC-kaIt
+Regler Re-gl6
+Reintun R'aIn-tu:n
+Reisegepäck 'RaI-z@-g@-pEk
+Reisegepäcks 'RaI-z@-g@-pEk
+Reklame Re-kla:-m@
+Rekorder Re-kO6-d6
+Rendezvous ROn-d@-v'u:
+Renner RE-n6
+Reparaturgeschäft Re-pa-Ra-t'u:6-g@-SEft
+Reportage Re-pO6-ta:-Z@
+Reportagen Re-pO6-ta:-Z@n
+Reportagesendung Re-pO6-t'a:-Z@-zEn-dUN
+Reserve Re:-zE6-v@
+Reserven RE:-zE6-v@n
+Restaurantbesuche REs-to-R'a~-b@-zu:x-@
+Restaurantkategorien REs-to-R'a~-ka-te-go-Ri:-@n
+Restaurantübersicht REs-to-R'a~-'?y:-b6-zICt
+Returnabteilung Ri-t'96n-ap-taI-lUN
+Revanche R@-vo~S
+Rex R'Eks
+Richie RI-tSI
+Rickhoff R'Ik-hOf
+Riederalp R'i:-d6-alp
+Riesenanstrengung R'i:-z@n-an-StREN-UN
+Ritterstube R'I-t6-Stu:-b@
+Roberta R'o-b'E:R-t6
+Robsen ROp-s@n
+Rochusstraße R'O-xUs-StRa:-s@
+Rollerblades R'O-l6-ble:ts
+Rolli RO-li
+Rollis RO-li:s
+Rollstuhlstellplatz ROl-Stu:l-StEl-plats
+Rollstuhlstellplatzes ROl-Stu:l-StEl-plat-s@s
+Rollstuhlstellplätze ROl-Stu:l-StEl-plEt-s@
+Rollstühle 
+Rollstühlen ROl-Sty:-l@n
+Rottweil R'Ot-vaIl
+Roulette Ru:-l'Et
+Routineuntersuchung Ru-t'i:-n@-Un-t6-zu:-xUN
+Rubrik Ru-bRi:k
+Rubriken Ru-bRi:-k@n
+Rutsche RUt-S@
+Rutschika RU-tSi-ka
+Räder 'RE:-d6
+Röschen 'R2:s-C@n
+Rössner R'9s-n6
+Sabena za-b'e:-na
+Sachbearbeiterin zax-be-a:6-baI-t6-RIn
+Safaribüchse za-f'a:-Ri-bYk-s@
+Sagerer z'a:-g@-R6
+Salami za-la-mi
+Salatblätter za-l'a:t-blE-t6
+Salatbuffet za-l'a:t-bY-fe:
+Salatkopf za-l'a:t-kOpf
+Salatteller za-l'a:t-tE-l6
+Samstage zams-ta:-g@
+Samstagen zams-ta:-g@n
+Sanitätsstelle za-ni-t'E:ts-StE-l@
+Saunafan z'aU-na-fE:n
+Saunafreak z'aU-na-fRi:k
+Saunagänger z'aU-na-gEN-6
+Savoy zav-'OY
+Saxophon zak-so-fo:n
+Schablone Sa-plo:-n@
+Schaeffler S'Ef-l6
+Scharlatanerie Sa6-la-ta:-nE-Ri:
+Scheer S'e:6
+Schellingsalon S'E-lIN-za-lo~
+Schellingstraße S'E-lIN-StRa:-s@
+Schendel S'En-d@l
+Scherz SE6ts
+Scheytt S'aIt
+Schlafmütze Sl'a:f-mYt-s@
+Schlagerwelt Sl'a:-g6-vElt
+Schlittschuh SlIt-Su:
+Schlizio SlIts-jo
+Schloßbesichtigung Sl'Os-b@-zIC-tI-gUN
+Schloßerstraße Sl'O-s6-StRa:-s@
+Schloßhotel Sl'Os-ho-tEl
+Schloßkonzert Sl'Os-kOn-tsE6t
+Schloßstraße Sl'Os-StRa:-s@
+Schluß SlUs
+Schlösschen 'Sl9s-C@n
+Schneidereit Sn'aI-d@-RaIt
+Schnellrestaurant Sn'El-REs-to-Ra~
+Schnerring Sn'E-RIN
+Schnulze SnUl-ts@
+Schoppen SO-p@n
+Schornstein S'O6n-StaIn
+Schornsteinfeger S'O6n-StaIn-fe:-g6
+Schrittchen SR'It-C@n
+Schulaufgabe S'u:l-aUf-ga:-b@
+Schulaufgaben S'u:l-aUf-ga:-b@n
+Schuldirektor S'u:l-di-REk-to:6
+Schulkinder S'u:l-kInd-6
+Schuß SUs
+Schwangere SvaN-@R@
+Schwarzenegger Sv'aR-ts@n-E-g6
+Schweigemärschen 'SvaI-g@-mE6-S@n
+Schwimmbad Sv'Im-ba:t
+Schwimmbads Sv'Im-ba:ts
+Schwäbisch SvE:-bIS
+Schwäbischen SvE:-bIS-@n
+Schwänlein SvE:n-laIn
+Schwärmen SvE6-m@n
+Schülerinnen Sy:-l6-Ri-n@n
+Scientology saI@n-tO-lO-dZi
+Scooter sku:-t6
+Scootern sku:-t6n
+Scout skaUt
+Scouts skaUts
+Sedlmayer z'e:dl-maI-6
+Seechen ze:-C@n
+Segler ze:-gl6
+Segmentationstools zE-gmEn-tat-sj'o:ns-tu:ls
+Segmentierer zEg-men-t'i:-R6
+Sekretärinnen ze-kRe-tE:-RI-n@n
+Semesterarbeit ze-m'Es-t6-aR-baIt
+Semesterende ze-m'Es-t6R-En-d@
+Semesterferien ze-m'Es-t6-fe:6-j@n
+Semesters ze-mEs-t6s
+Semestertag ze-m'Es-t6-ta:k
+Seminararbeit ze-mi-n'a:R-'aR-baIt
+Seminare ze-mi-na:-R@
+Seminaren ze-mi-na:R-@n
+Seminarhaus ze-mi-n'a:R-haUs
+Seminarraum ze-mi-n'a:R-RaUm
+Seminarräume ze-mi-n'a:R-ROY-m@
+Seminars ze-mi-n'a:Rs
+Seminarvorbereitung ze-mi-n'a:R-fo:6-b@-RaI-tUN
+Seminarvortrag ze-mi-n'a:R-fo:6-tRa:k
+Sendetermin z'En-d@-tE6-mi:n
+Seniorenkreis zen-j'o:-R@n-kRaIs
+Septembers zEp-tEm-b6s
+Setup s'Et-ap
+Shakira Sa-k'i:-Ra
+Shay S'eI
+Shetland S'Et-l@nt
+Shoppingparadies S'O-pIN-pa-Ra-di:s
+Simons z'i:-mOns
+Skier S'i:-6R
+Socken zO-k@n
+Sojasprossen z'o:-ja-SpRO-s@n
+Solarium zo-l'a:R-jUm
+Sommerferien z'O-m6-fe:6-j@n
+Sonderausstellungen z'On-d6-aUs-StE-lUN-@n
+Sossenheim z'O-s@n-haIm
+Spaghetti Spa-g'E-ti
+Spaghettis Spa-g'E-ti:s
+Spanplattenschrank Sp'a:n-pla-t@n-SRaNk
+Spaziergängern Spa-ts'i:6-gEN-6n
+Spende SpEn-d@
+Sperenzchen SpE6-REn-tsC@n
+Spesen Spe:-z@n
+Spesenkosten Sp'e:-z@n-kOs-t@n
+Spesenrechnung Sp'e:-z@n-REC-nUN
+Spezialtarif Spe-tsj'a:l-ta-R'i:f
+Spezialtip Spe-tsj'a:l-tIp
+Spezifika Spe-tsi:-fi-ka
+Spielhoven Sp'i:l-ho:-v@n
+Spielplan Sp'i:l-pla:n
+Sprachspende SpR'a:x-SpEn-d@
+Sprechstunde SpR'EC-StUn-d@
+Sprengel SpR'EN-@l
+Spässchen 'SpE:s-C@n
+Squash skv'OS
+Stadtschlösschen Stat-Sl9s-C@n
+Stairway st'ER-weI
+Stammkneipe St'am-knaI-p@
+Starlight st'a:R-laIt
+Stefanie St'E-fa-ni
+Sternchen StE6n-C@n
+Stewardeß Stju-a6-dEs
+Stopp StOp
+Storno StO6-no
+Stoßstange Sto:o:s-StaN-@
+Stoßstangen Sto:o:s-StaN-@n
+Strack StRak
+Straßenverengungen StR'a:-s@n-fE6-EN-UN-@n
+Strenge StREN-@
+Streß StREs
+Strohschnieder StR'o:-Sni:-d6
+Strässchen 'StRE:s-C@n
+Studentenausweis Stu-d'En-t@n-aUs-vaIs
+Studentenermäßigung Stu-d'En-t@n-E6-mE:-sI-gUN
+Studentenkneipe Stu-d'En-t@n-knaI-p@
+Studentenwohnheim Stu-d'En-t@n-vo:n-haIm
+Studienabschluß St'u:-dj@n-ap-SlUs
+Studienberatung St'u:-dj@n-b@-Ra:-tUN
+Subventionsabbau zUp-vEn-tsjo:ns-ap-baU
+Surfbrett s'96f-bREt
+Surfbretter s'96f-bRE-t6
+Surfen s'96-f@n
+Suska z'U-ska
+Suzuki zu-z'u:-ki
+Sylvesterraketen sIl-v'E-st6-Ra-ke:-t@n
+Symbolschablonen zYm-b'o:l-Sa-blo:-n@n
+Sängern zEN-6n
+Sölter z'9l-t6
+Sönksen s'9Nk-s@n
+Tabellenkalkulation ta-b'E-l@n-kal-ku-la-tsjo:n
+Tabellenkalkulationen ta-b'E-l@n-kal-ku-la-tsjo:-n@n
+Tagemärschen 'ta:-g@-mE6-S@n
+Tagung ta:-gUN
+Tagungen ta:-gUN-@n
+Tagungsordnungspunkte ta:-gUNs-O6-dnUNs-pUNk-t@
+Tagungsort t'a:-gUNs-O6t
+Tagungsraum t'a:-gUNs-RaUm
+TajMahal tatS-ma-h'al
+Taxe tak-s@
+Taxistände t'ak-sI-StEn-d@
+Teambesprechung t'i:m-b@-SpRE-CUN
+Teein 'te:-i:n
+Tegernsee t'e:-g6n-ze:
+Telefonats t'e:-lE-fo-n'a:ts
+Telex t'e:-lEks
+Tennismatch t'E-nIs-mEtS
+Tennisplatz t'E-nIs-plats
+Terminabsprechung tE6-mi:n-ap-SpRE-CUN
+Terminfindung tE6-m'i:n-fIn-dUN
+Terminknappheit tE6-m'i:n-knap-haIt
+Terminplaner tE6-m'i:n-pla:n-6
+Termins tE6-m'i:ns
+Terminstreß tE6-m'i:n-StREs
+Terminvereinbarungen tE6-m'i:n-fE6-aIn-ba:-RUN-@n
+Terminwünsche tE6-m'i:n-vYn-S@
+Terra tE-Ra
+Testmarkt t'Est-maRkt
+Teuchert t'OY-C6t
+Thyssen tY-s@n
+Thüringer ty:-RIN-6
+Tierquälerei t'i:6-kvE:-l@-RaI
+Tintenfässchen tIn-t@n-fEs-C@n
+Tivoli t'i:-vo-li
+Tivolistraße t'i:-vo-li-StRa:-s@
+Toast t@'Ust
+Toasts t@'Usts
+Tonner tO-n6
+Tonstudio t'o:n-Stu:-djo
+Tontechniker t'o:n-tEC-nI-k6
+Tools tu:ls
+Torpedoraum tO6-p'e:-do-RaUm
+Tourist t'u:-RIst
+Training tR'e:nIN
+Trainings tR'e:nINs
+Trainingszentrum tR'e:-nINs-tsEn-tRUm
+Trainingszentrums tR'e:-nINs-tsEn-tRUms
+Transfer tRans-fe6
+Transportation tRans-pO6-ta-tsj'o:n
+Trauermärschen 'tRaU-6-mE6-S@n
+Treffens tRE-f@ns
+Trenntür tR'En-ty:-6
+Troller tR'O-l6
+Trouble tR'a-b@l
+Truman tR'u:-m@n
+Tscheschlok tS'E-SlOk
+Tschick tS'Ik
+Turbulenzen tU6-bu-l@n-ts@n
+Tässchen tEs-C@n
+Udelhofen u:-d@l-h'o:-f@n
+Ueding 'y:-dIN
+Umweltseminar 'Um-vElt-ze-mi-na:R
+Unangenehmes 'Un-an-g@-ne:-m@s
+Untergebenen Un-t6-g'e:-b@-n@n
+Unterhaltungen Un-t6-hal-tUN-@n
+Unternehmensberatung Un-t6-n'e:-m@ns-b@-Ra:-tUN
+Unternehmensberatungs Un-t6-n'e:-m@ns-b@-Ra:-tUNs
+Unterweisungsprobe Un-t6-v'aI-zUNs-pRo:-b@
+Unversehrtheit Un-fER-ze:6t-aIt
+Ute 'u:-t@
+Valentinstag v'a-lEn-ti:ns-ta:k
+Validierungsbericht va-li-d'i:-RUNs-b@-RICt
+Vegetarier ve-g@-ta-Ri:6
+Veilchen faIl-C@n
+Verabredungen fE6-ap-Re:-dUN-@n
+Veranstaltungskalender fE6-'an-Stal-tUNs-kal-En-d6
+Veranstaltungskalenders fE6-'an-Stal-tUNs-ka-lEn-d6s
+Verena ve-R'e:-na
+Verkäuferinnen fE6-kOY-f6-RIn-@n
+Vermerk fE6-'mE6k
+Vermerks fE6-'mE6ks
+Vernissage vE6-nI-s'a:Z
+Vernissagen vE6-nI-s'a:-Z@n
+Verona ve-R'o:-na
+Verordnungen fE6-?O6d-nUN-@n
+Verrutschen RUt-S@n
+Verschmutzung fER-SmUts-UN
+Verschmutzungen fER-SmUts-UN-@n
+Verschwendung fE6-SvEn-dUN
+Vertrags fE6-tRa:ks
+Vertretung fER-tRe:-tUN
+Vertriebssystem fE6-tR'i:ps-zYs-te:m
+Visa vi:-za
+Visitenkarte vi-z'i:-t@n-kaR-t@
+Viva v'i:-va
+Vogsch fOgS
+Vokabeln vo-ka:-b@ln
+Volkssternwarte f'Olk-sStE6n-vaR-t@
+Vollstedt fOl-StEt
+Vollständigkeit fOl-StEn-dIC-kaIt
+Vollständigkeits f'Ol-StEn-dIC-kaIts
+Voraussicht fo-R'aUs-zICt
+Vorauszahlung fo:-RaUs-tsa:-lUN
+Vorbereitungstermins f'o:6-b@-RaI-tUNs-tE6-mi:ns
+Vorbereitungstreffens f'o:6-b@-RaI-tUNs-tRE-f@ns
+Vorbesprechungstermin f'o:6-b@-SpREC-UNs-tE6-mi:n
+Vorbestellungen f'o:6-b@-StEl-UN-@n
+Vordermann f'O6-d6-man
+Vorlesung fo:6-le:-zUN
+Vorlesungsgliederungen f'o:6-le:-zUNs-gli:-d@-RUN-@n
+Vorlesungssaal f'o:6-le:-zUNs-za:l
+Vormerker f'o:6-mE6-k6
+Vorschuß fo:6-SUs
+Vortragenden f'o:6-tRa:-g@n-d@n
+Vox v'Oks
+Väschen vE:s-C@n
+Vögelchen f2:-g@l-C@n
+Völkerkunde f'9l-k6-kUn-d@
+Völkerkundemuseum f'9l-k6-kUn-d@-mu-z'e:-Um
+Walnüsschen val-nYs-C@n
+Waschanlage v'aS-'an-la:-g@
+Wattebäuschchen va-t@-bOYS-C@n
+Webmaster v'Ep-ma:s-t6
+Wechselstube v'Ek-s@l-Stu:-b@
+Wegener v'e:-g@-n6
+Wegner v'e:-gn6
+Weihnachtbaumschmuck vaI-naxt-baUm-SmUk
+Weihnachtsbaumschmuck v'aI-naxts-baUm-SmUk
+Weihnachtsbräuche v'aI-naxts-bROY-C@
+Weihnachtsfeiern vaI-naxts-faI-6n
+Weihnachtsfeiertage v'aI-naxts-faI-6-ta:-g@
+Weihnachtsfeiertagen v'aI-naxts-faI-6-ta:-g@n
+Weihnachtsgeschenke v'aI-naxts-g@-SEN-k@
+Weihnachtskarten v'aI-naxts-kaR-t@n
+Weihnachtskonzerte v'aI-naxts-kOn-tsE6-t@
+Weihnachtstage v'aI-naxts-ta:-g@
+Weihnachtstrubel v'aI-naxts-tRu:-b@l
+Weihnachtsvorbereitung v'aI-naxts-fo:6-b@-RaI-tUN
+Weihnachtsvorbereitungen v'aI-naxts-fo:6-b@-RaI-tUN-@n
+Weinchen v'aIn-C@n
+Weinfässchen vaIn-fEs-C@n
+Westerland v'Es-t6-lant
+Whirlpool v'96l-pu:l
+Windröschen vInt-'R2:s-C@n
+Wintersemesterferien v'In-t6-ze-mEs-t6-fe:6-j@n
+Wochenendarbeit v'O-x@n-Ent-aR-baIt
+Wochenendheimfahrer v'O-x@n-Ent-haIm-fa:-R6
+Wochenendseminar v'O-x@n-Ent-ze-mi-na:R
+Wochenendseminaren v'O-x@n-Ent-ze-mi-na:-R@n
+Wochenendseminars v'O-x@n-Ent-ze-mi-na:Rs
+Wochenendtag v'O-x@n-Ent-ta:k
+Wochenendtage v'O-x@n-Ent-ta:-g@
+Wochenendtermin v'O-x@n-Ent-tE6-mi:n
+Wochenendterminen v'O-x@n-Ent-tE6-mi:-n@n
+Wochenendtermines v'O-x@n-Ent-tE6-mi:-n@s
+Wochenendticket v'O-x@n-Ent-tI-k@t
+Wochenendtickets v'O-x@n-Ent-tI-k@ts
+Wochenkalender v'O-x@n-ka-lEn-d6
+Wochenkalendern v'O-x@n-ka-lEn-d6n
+Wochenkalenders v'O-x@n-ka-lEn-d6s
+Wocke v'O-k@
+Wohnberechtigung v'o:n-b@-REC-tI-gUN
+Wok v'Ok
+Woodstock v'Ut-stOk
+Word v96t
+Workaholic v96k-ah'O-lIk
+Workshop v'96k-SOp
+Workstation v96k-stEjSn
+Wortendgrenzen vO6t-'Ent-gREn-ts@n
+Woyzek v'OY-tsEk
+Wunschbox v'UnS-bOks
+Wörthsee v'96t-ze:
+Xylophon ksy-lo-fo:n
+Yoshimura jo-Si-mu:-Ra
+Yves 'i:f
+Yvonne i-v'On
+Zeitverschwendung ts'aIt-fE6-SvEn-dUN
+Zeltlhofer ts'Eltl-ho:-f6
+Zigaretten tsi-ga-RE-t@n
+Zivilrechtsseminar tsi-vi:l-RECts-ze-mi-na:R
+Zollhäuschen tsOl-hOYs-C@n
+Zugangebot ts'u:g-'an-g@-bo:t
+Zusammenfassungen tsu-z'a-m@n-fa-sUN-@n
+Zweitausend tsvaI-t'aU-z@nt
+Zwischengeschoß tsv'I-S@n-g@-SOs
+Zylemflußmessung tsY-l'em-flUs-mEs-UN
+abendliche a:-b@nt-lI-C@
+abergläubisch a:-b6-glOY-bIS
+abgedruckte ?ap-g@-'dRUk-t@
+abgedrucktem ?ap-g@-'dRUk-t@m
+abgedruckten ?ap-g@-'dRUk-t@n
+abgedruckter ?ap-g@-'dRUk-t6
+abgedrucktes ?ap-g@-'dRUk-t@s
+abgehauen ap-g@-haU-@n
+abgereist ap-g@-RaIst
+abgerollt ?ap-g@-'ROlt
+abgerolltem ?ap-g@-'ROl-t@m
+abgerollten ?ap-g@-'ROl-t@n
+abgerollter ?ap-g@-'ROl-t6
+abgerolltes ?ap-g@-'ROl-t@s
+abgesenkte ?ap-g@-zENkt@
+abgesenktem ?ap-g@-zENk-t@m
+abgesenkten ?ap-g@-zENk-t@n
+abgesenkter ?ap-g@-zENk-t6
+abgesenktes ?ap-g@-zENk-t@s
+abgestellte ap-g@StEl-t@
+abgestelltem ap-g@-StEl-t@m
+abgestellten ap-g@-StEl-t@n
+abgestellter ap-g@-StEl-t6
+abgestelltes ap-g@-StEl-t@s
+abgetippt ap-g@-tIpt
+abgewechselt '?ap-g@-vEk-zElt
+abgewechseltem '?ap-g@-vEk-zEl-t@m
+abgewechselten '?ap-g@-vEk-zEl-t@n
+abgewechselter '?ap-g@-vEk-zEl-t6
+abgewechseltes '?ap-g@-vEk-zEl-t@s
+abgewischt ap-g@-vISt
+abhetzen ap-hEt-s@n
+abkömmlich ap-k9m-lIC
+ablehnen le:-n@n
+ablenken ap-lEN-k@n
+abmelde ap-mEl-d@
+abreisebereit 'ap-RaI-z@-b@-RaIt
+abrollt ?ap-'ROlt
+abrollte ?ap-'ROl-t@
+abschlägigen ap-SlE:-gI-g@n
+absolvieren ?ap-zOl-'vi:6-R@n
+absolviert ?ap-zOl-'vi:6t
+absolviertem ?ap-zOl-'vi:6-t@m
+absolvierten ?ap-zOl-'vi:6-t@n
+absolvierter ?ap-zOl-'vi:6-t6
+absolviertes ?ap-zOl-'vi:6-t@s
+abstrakt 'ap-stRakt
+abstürzt ap-StY6tst
+absurderweise ap-z'U6-d6-vaI-z@
+absurdes ap-zU6-d@s
+abwechselten '?ap-vEk-zEl-t@n
+abwechslungsreich ap-vEks-lUNs-RaIC
+abwechslungsreiche ap-vEks-lUNs-RaI-C@
+abwechslungsreichem ap-vEks-lUNs-RaI-C@m
+abwechslungsreichen ap-vEks-lUNs-RaI-C@n
+abwechslungsreicher ap-vEks-lUNs-RaI-C6
+abwechslungsreiches ap-vEks-lUNs-RaI-C@s
+abwesend ap-ve:-z@nt
+abwesende ap-ve:-z@n-t@
+abwesendem ap-ve:-z@n-t@m
+abwesenden ap-ve:-z@n-t@n
+abwesender ap-ve:-z@n-t6
+abwesendes ap-ve:-z@n-t@s
+abzulenken ap-tsu:-lEN-k@n
+achteinhalb axt-aIn-halp
+achteinhalbstündige axt-aIn-halp-StYn-dI-g@
+adelig a:-d@-lIC
+advanced Et-v'a:nst
+aktiviere ak-ti:-'vi:-R@
+aktivieren ak-ti:-'vi:-R@n
+aktiviert akti:vi:Rt
+aktivierten akti:vi:R-t6n
+aktivierter akti:vi:R-t6
+allergelegensten 'al6-g@-le:-g@n-st@n
+anand ana'nd
+anberaumen 'an-b@-RaU-m@n
+andermal 'an-d6-ma:l
+anderthalbstündigen an-d6t-h'alp-StYn-dI-g@n
+anderthalbtägig an-d6t-h'alp-tE:-gIC
+anderthalbtägige an-d6t-h'alp-tE:-gI-g@
+anderthalbtägigen an-d6t-h'alp-tE:-gI-g@n
+anderthalbtägiges an-d6t-h'alp-tE:-gI-g@s
+angebrachter an-g@-bRax-t6
+angefordert an-g@-fO6-d6t
+angefragten an-g@-fRa:k-t@n
+angeguckt an-g@-gUkt
+angekleidet an-g@-klaI-d@t
+angemessenen g@-'mE-s@n-@n
+angemotzt 'an-g@-mOtst
+angenehmer an-g@-ne:-m6R
+angenehmere an-g@-ne:-m6-R@
+angenehmes an-g@-ne:-m@s
+angenehmste an-g@-ne:m-st@
+angenehmsten an-g@-ne:m-st@n
+angenommene '?an-g@-nO-m@-n@
+angenommenem '?an-g@-nO-m@-n@m
+angenommenen '?an-g@-nO-m@-n@n
+angenommener '?an-g@-nO-m@-n6
+angenommenes '?an-g@-nO-m@-n@s
+angequatscht an-g@-kvatSt
+angeregte an-g@-Re:g-t@
+angeschnorrt 'an-g@-SnO6t
+angestrebte '?an-g@-StRe:p-t@
+angestrebtem '?an-g@-StRe:p-t@m
+angestrebten '?an-g@-StRe:p-t@n
+angestrebter '?an-g@-StRe:p-t6
+angestrebtes '?an-g@-StRe:p-t@s
+angrenzende '?an-gREn-ts@n-d@
+angrenzendem '?an-gREn-ts@n-d@m
+angrenzender '?an-gREn-ts@n-d6
+angrenzendes '?an-gREn-ts@n-d@s
+anhebt '?an-'he:pt
+anklingeln an-klIN-@ln
+ankucken 'an-kU-k@n
+anmerken an-mE6-k@n
+anmotzen 'an-mOt-s@n
+anreist an-RaIst
+anschaue an-Sa'U-@
+anstrengenden an-StREN-@n-d@n
+anstrengender an-StREN-@n-d6
+antibiotisch an-ti:-bi:'o-tIS
+anwenden 'an-vEn-d@n
+anzuberaumen 'an-tsu-b@-RaU-m@n
+anzukucken 'an-tsu-kU-k@n
+anzumerken an-tsu:-mE6-k@n
+anzuwenden an-tsu:-vEn-d@n
+anzuwendenden '?an-tsu:-vEn-d@n-d@n
+apropos a-pRo-p'o:
+arbeitsbesessen 'aR-baIts-b@-zE-s@n
+arbeitslosen 'aR-baIts-lo:-z@n
+arrangieren a6-Ran-Si:-R@n
+aufdrucken aUf-dRU-k@n
+aufpeppen 'aUf-pE-p@n
+aufregenden aUf-Re:-g@n-d@n
+aufscheuchen aUf-SOYC-@n
+aufwendigerem '?aUf-v@n-dI-g@-R@m
+aufwendigeren '?aUf-v@n-dI-g@-R@n
+aufwendigerer '?aUf-v@n-dI-g@-R6
+aufwendigeres '?aUf-v@n-dI-g@-R@s
+aufwendiges aUf-vEn-dI-g@s
+ausbuddeln aUs-bU-d@ln
+auschecken 'aUs-tSE-k@n
+ausdrucken aUs-dRU-k@n
+auseinanderstreuen aUs-aI-n'an-d6-StROY-@n
+ausgebessert aUs-g@-bE-s6t
+ausgecheckt aUs-g@-tSEkt
+ausgedruckt aUs-g@-dRUkt
+ausgeliehen aUs-g@-li:-@n
+ausgemistet aUs-g@-mIs-t@t
+ausgeruht aUs-g@-Ru:t
+ausgerüstet g@-RYs-t@t
+ausgerüstete aus-ge-RYs-t@-t@
+ausgerüstetem aus-ge-RYs-t@-t@m
+ausgerüsteten aus-ge-RYs-t@-t@n
+ausgerüsteter aus-ge-RYs-t@-t6
+ausgerüstetes aus-ge-RYs-t@-t@s
+auskucken 'aUs-kU-k@n
+auspacken aUs-pa-k@n
+ausprobiert aUs-pRo-bi:6t
+ausspannen aUs-Spa-n@n
+ausströmendes aUs-StR2:-m@n-d@s
+auswirkt aUs-vI6kt
+auswärts aUs-vE6ts
+auszudrucken aUs-tsu:-dRU-k@n
+backt bakt
+bange ban-g@
+bayrische baI-RI-S@
+bayrischen baI-RIS-@n
+beabsichtige b@-ap-zIC-tI-g@
+beabsichtigt b@-ap-zIC-tIgt
+beabsichtigte b@-?ab-zIC-tIC-t@
+beabsichtigtem b@-?ab-zIC-tIC-t@m
+beabsichtigten b@-?ab-zIC-tIC-t@n
+beabsichtigter b@-?ab-zIC-tIC-t6
+beabsichtigtes b@-?ab-zIC-tIC-t@s
+bedenklich b@-'dENk-lIC
+bedenkliche b@-'dENk-lI-C@
+bedenklichem b@-'dENk-lI-C@m
+bedenklichen b@-'dENk-lI-C@n
+bedenklicher b@-'dENk-lI-C6
+bedenkliches b@-'dENk-lI-C@s
+bedienbar b@-'di:n-ba:R
+bedienbare b@-'di:n-ba:-R@
+bedienbarem b@-'di:n-ba:-R@m
+bedienbaren b@-'di:n-ba:-R@n
+bedienbarer b@-'di:n-ba:-R6
+bedienbares b@-'di:n-ba:-R@s
+beengt b@-'?ENt
+beengte b@-'?EN-t@
+beengtem b@-'?EN-t@m
+beengter b@-'?EN-t6
+beengtes b@-'?EN-t@s
+befördernde f9R-d6n-t@
+beförderndem f9R-d6n-t@m
+befördernden f9R-d6n-t@n
+befördernder f9R-d6n-t6
+beförderndes f9R-d6n-t@s
+befördert b@-'f9R-d6t
+beförderte b@-'f9R-d6-t@
+befördertem b@-'f9R-d6-t@m
+beförderten b@-'f9R-d6-t@n
+beförderter b@-'f9R-d6-t6
+befördertes b@-'f9R-d6-t@s
+begießen b@-gi:-s@n
+begrenzte b@-gREnts-t@
+begrenztem b@-gREnts-t@m
+begrenzten b@-gREnts-t@n
+begrenzter b@-gREnts-t6
+begrenztes b@-gREnts-t@s
+beherrschbar b@-'hE6S-ba:R
+beherrschbare b@-'hE6S-ba:-R@
+beherrschbarem b@-'hE6S-ba:-R@m
+beherrschbaren b@-'hE6S-ba:-R@n
+beherrschbarer b@-'hE6S-ba:-R6
+beherrschbares b@-'hE6S-ba:-R@s
+behilflich b@-hIlf-lIC
+beige bee:S
+beiges be:-S@s
+beisammen baI-za-m@n
+bekloppte b@-kl'Op-t@
+belle 'bE-l@
+bemessen b@-mE-s@n
+bemessene b@-mE-s@-n@
+bemessenem b@-mE-s@-n@m
+bemessenen b@-mE-s@-n@n
+bemessener b@-mE-s@-n6
+bemessenes b@-mE-s@-n@s
+benachteiligt b@-'nax-taI-lICt
+benachteiligte b@-'nax-taI-lIC-t@
+benachteiligtem b@-'nax-taI-lIC-t@m
+benachteiligten b@-'nax-taI-lIC-t@n
+benachteiligter b@-'nax-taI-lIC-t6
+benachteiligtes b@-'nax-taI-lIC-t@s
+benutzbarem b@-'nU-ts-ba:-R@m
+benutzbaren b@-'nU-ts-ba:-R@n
+benutzbarer b@-'nU-ts-ba:-R6
+benutzbares b@-'nU-ts-ba:-R@s
+bequemer b@-kve:-m6
+bequemes b@-kve:-m@s
+bequemste b@-kve:m-st@
+bequemsten b@-kve:m-st@n
+beratschlagen b@-Ra:t-Sla:-g@n
+bergab bE6k-a:p
+bescheuertes b@-S'OY-6-t@s
+beseelt b@-ze:lt
+bestellst b@-StElst
+bestens b'Es-t@ns
+bestätigtem b@-'StE:-tIC-t@m
+bestätigten b@-'StE:-tIC-t@n
+bestätigter b@-'StE:-tIC-t6
+bestätigtes b@-'StE:-tIC-t@s
+bestünde b@-StYn-d@
+bettelt bE-t@lt
+betätigte b@-'tE:-tIC-t@
+betätigtem b@-'tE:-tIC-t@m
+betätigten b@-'tE:-tIC-t@n
+betätigter b@-'tE:-tIC-t6
+betätigtes b@-'tE:-tIC-t@s
+beunruhigend b@-Un-Ru:I-g@nt
+beunruhigende b@-Un-Ru:I-g@n-d@
+bewerkstelligen b@-vE6-kStE-lI-g@n
+bewerkstelligt b@-'vE6k-StE-lICt
+bewerkstelligte b@-'vE6k-StE-lIC-t@
+bewerkstelligtem b@-'vE6k-StE-lIC-t@m
+bewerkstelligten b@-'vE6k-StE-lIC-t@n
+bewerkstelligter b@-'vE6k-StE-lIC-t6
+bewerkstelligtes b@-'vE6k-StE-lIC-t@s
+bewölkt b@-v9lkt
+bischen bIs-C@n
+bisherigem bIs-'he:-Ri:-g@m
+bisheriger bIs-'he:-Ri:-g6
+bisheriges bIs-'he:-Ri:-g@s
+blub blUp
+braungebrannte bRaUn-g@-bRan-t@
+bye baI
+bäh bE:
+bäriger b'E:-RI-g6
+bäuschen b?OY-S@n
+canceln k'En-ts@ln
+checkin tSEk-'In
+checkout tS'Ek-aUt
+checkst CEkst
+chinesisches Ci-ne:-zI-S@s
+continue k@n-t'In-ju
+dabeigewesen da-b'aI-g@-ve:-z@n
+dabeihabe da-b'aI-ha:-b@
+dabeihaben da-b'aI-ha:-b@n
+daccord da-k'o:6
+daily d'EI-li
+daraufliegen da-R'aUf-li:-g@n
+darstellenden da6-StE-l@n-d@n
+date d'Eit
+davorgesessen da-fo:6-g@-zE-s@n
+dazwischenquetschen da-tsv'I-S@n-kvEt-S@n
+dazwischenschieben da-tsv'I-S@n-Si:-b@n
+deadline d'E:t-laIn
+deep d'i:p
+derartig 'dE6-?a6-tIk
+derartigem 'dER-?a6-tIk-@m
+derartigen 'dE6-?a6-tIk-@n
+derartiger 'dE6-?a6-tIk-6
+derartiges 'dE6-?a6-tIk-@s
+dienstags di:ns-ta:ks
+dienstlich di:nst-lIC
+diffizile d'I-fi-tsi:-l@
+discounts d'Is-kaUnts
+disponibel dIs-po-n'i:-b@l
+disponierbar dIs-po-n'i:6-ba:R
+disponieren dIs-po-ni:-R@n
+diversem di:-'vE6-z@m
+diverser di:-'vE6-z6
+diverses di:-'vE6-z@s
+doppeltem dO-p@l-t@m
+downgesamplet d'aUn-g@-sEm-p@lt
+downsamplen d'aUn-sEm-p@ln
+dran dR'an
+drangehen dR'an-ge:-@n
+drangesessen dR'an-g@-zE-s@n
+draufgebracht dRaUf-g@-bRaxt
+draufgedrückt dRaUf-g@-dRYkt
+draufgefahren dRaUf-g@-fa:-R@n
+draufgehen dRaUf-ge:-@n
+draufgelegt dRaUf-g@-le:kt
+draufgeschaufelt dRaUf-g@-SaU-f@lt
+draufgeschmiert dRaUf-g@-Smi:6t
+draufstehen dRaUf-Ste:-@n
+draufsteht dRaUf-Ste:t
+dreieinhalbstündige dRaI-aIn-halp-StYn-dI-g@
+dreistündigen dRaI-StYn-dI-g@n
+dreistündiger dRaI-StYn-dI-g6
+dringenden dRIN-@n-d@n
+drängeln dREN-@ln
+dummerweise d'U-m6-vaI-z@
+durchchecken d'U6C-tSE-k@n
+durchgedüst d'U6C-g@-dy:st
+durchgekuckt d'U6C-g@-kUkt
+durchsagen dU6C-za:-g@n
+durchschauen dU6C-SaU-@n
+durchsehen dU6C-ze:-@n
+durchzugehen dU6C-tsu:-ge:-@n
+duschen du:-S@n
+dynamisch dy-na:-mIS
+dynamischem dy-na:-mI-S@n
+dynamischen dy-na:-mI-S@n
+dynamischer dy-na:-mI-S6
+dynamisches dy-na:-mI-S@s
+ebenerdige e:-b@-ne-6-'di-g@
+ebenerdigem e:-b@-ne-6-'di-g@m
+ebenerdigen e:-b@-ne-6-'di-g@n
+ebenerdiger e:-b@-ne-6-'di-g6
+ebenerdiges e:-b@-ne-6-'di-g@s
+effektivsten E-fEk-ti:fs-t@n
+effiziente ?Efi:-'tsjEn-t@
+effizientem ?Efi:-'tsjEn-t@m
+effizienten ?Efi:-'tsjEn-t@n
+effizienter ?Efi:-'tsjEn-t6
+effizientes ?Efi:-'tsjEn-t@s
+egoistisch eg'o-Is-tIS
+eighties 'e:-ti:s
+einbuchen 'aIn-bu:-x@n
+einchecken 'aIn-tSE-k@n
+eineinhalbstündige aIn-aIn-halp-StYn-dI-g@
+eineinhalbtägige aIn-aIn-h'alp-tE:-gI-g@
+eineinhalbtägigen aIn-aIn-h'alp-tE:-gI-g@n
+eineinhalbtägiges aIn-aIn-h'alp-tE:-gI-g@s
+einfacheres aIn-fa-x6-R@s
+eingecheckt 'aIn-g@-tSEkt
+eingecremt 'aIn-g@-kRe:mt
+eingefleischte aIn-g@-flaIS-t@
+eingemietet aIn-g@-mi:-t@t
+einkalkulieren aIn-kal-ku-li:-R@n
+einstürzt aIn-StY6tst
+eintägige aIn-tE:-gI-g@
+eintägigen aIn-tE:-gI-g@n
+eintägiger aIn-tE:-gI-g6
+eintägiges aIn-tE:-gI-g@s
+einwöchig aIn-v9-CIg
+einwöchige aIn-v9-CI-g@
+einwöchigen aIn-v9-CI-g@n
+einzuchecken 'aIn-tsu-tSE-k@n
+einzuwenden aIn-tsu:-vEn-d@n
+empfiehlst Em-pfi:lst
+empfohlene ?Em-'pfo:-l@-n@
+empfohlenen ?Em-'pfo:-l@-n@n
+empfohlener ?Em-'pfo:-l@-n6
+empfohlenes ?Em-'pfo:-l@-n@s
+engagierter @n-ga-Si:6-t6
+engere '?EN-6-R@
+engerem '?EN-6-R@m
+engerer '?EN-6-R6
+engeres '?EN-6-R@s
+entfernen ?Ent-'fE6-n@n
+entfernte ?Ent-'fE6n-t@
+entferntem ?Ent-'fE6n-t@m
+entfernten ?Ent-'fE6n-t@n
+entfernter ?Ent-'fE6n-t6
+entferntes ?Ent-'fE6n-t@s
+entrollt ?Ent-'ROlt
+entrollte ?Ent-'ROl-t@
+entschuldigen Ent-SUl-dI-g@n
+entspanne Ent-Spa-n@
+entspannen Ent-Spa-n@n
+epistomologische e-pI-sto-mo-lo:-gI-S@
+erbracht ?ER-bRaxt
+erfolgreiches E6-fOlg-RaI-C@s
+erfolgversprechend E6-fOlk-fE6-SpRE-C@nt
+erfolgversprechender E6-fOlk-fE6-SpRE-C@n-d6
+erheblichem ?ER-he:p-lI-C@m
+erheblicher ?ER-he:p-lI-C6
+erhebliches ?ER-he:p-lI-C@s
+erkennbare E6-kE-nba:-R@
+erkennst E6-kEnst
+ermäßigte E6-mE:-sIC-t@
+erschreckt E6-SREkt
+erschwinglich E6-SvIN-lIC
+erstaunlicherweise E6-St'aUn-lI-C6-vaI-z@
+erstere '?E6s-t@-R@
+ersterem '?E6s-t@-R@m
+ersteren '?E6s-t@-R@n
+ersterer '?E6s-t@-R6
+ersteres '?E6s-t@-R@s
+erstmalige '?E6st-ma:-lI-g@
+erstmaligem '?E6st-ma:-lI-g@m
+erstmaligen '?E6st-ma:-lI-g@n
+erstmaliger '?E6st-ma:-lI-g6
+erstmaliges '?E6st-ma:-lI-g@s
+eröffnetes E6-9f-n@-t@s
+erörtern E6-96-t6n
+erörtert '?E6-?9R-t6t
+erörterte '?E6-?9R-t6-t@
+etwaige ?Et-'va:I-g@
+etwaigem ?Et-'va:I-g@m
+etwaigen ?Et-'va:I-g@n
+etwaiger ?Et-'va:I-g6
+etwaiges ?Et-'va:I-g@s
+exquisite Eks-kvi-zi:-t@
+extremem ?Eks-'tRe:-m@m
+extremen ?Eks-'tRe:-m@n
+extremer ?Eks-'tRe:-m6
+extremes ?Eks-'tRe:-m@s
+fehlerhaftes fe:-l6-haf-t@s
+festklopfen f'Est-klOp-f@n
+festschnallen fEst-Sna-l@n
+feststehend fEst-Ste:-@nt
+finito fi-n'i:-t'o
+flexibler flEk-s'i:-bl6
+formatieren fO6-ma-ti:-6@n
+fortschrittlicher fO6t-SRIt-lI-C6
+fragst fRa:kst
+freimache fRaI-ma-x@
+frequentieren fRE-kvEn-ti:-R@n
+frequentierend fRE-kvEn-ti:-R@n-d
+frequentierende fRE-kvEn-ti:-R@n-d@
+frequentierendem fRE-kvEn-ti:-R@n-d@m
+frequentierenden fRE-kvEn-ti:-R@n-d@n
+frequentierender fRE-kvEn-ti:-R@n-d6
+frequentierendes fRE-kvEn-ti:-R@n-d@s
+frequentiert fRE-kvEn-ti:Rt
+freundlicherweise fR'OYnt-lI-C6-vaI-z@
+frohgemut fR'o:-g@-mu:t
+fährst fE:6st
+fördernd f9R-d6nt
+fördernde f9R-d6n-t@
+förderndem f9R-d6n-t@m
+fördernden f9R-d6n-t@n
+fördernder f9R-d6n-t6
+förderndes f9R-d6n-t@s
+fünfeinhalb fYnf-aIn-halp
+fünfeinhalbstündige fYnf-aIn-halp-StYn-dI-g@
+fünftägig f'Ynf-tE:-gIC
+fünftägige f'Ynf-tE:-gI-g@
+fünftägigen f'Ynf-tE:-gI-g@n
+fünftägiger f'Ynf-tE:-gI-g6
+fünftägiges f'Ynf-tE:-gI-g@s
+fürchterlich fY6C-t6-lIC
+fürchterlichen fY6C-t6-lI-C@n
+fürn f'y:6n
+geahnt g@-a:nt
+gebongt g@-bOnkt
+gebowlt g@-b'o:lt
+gefaxt g@-fakst
+gefertigtem g@-'fE6-tIC-t@m
+gefertigten g@-'fE6-tIC-t@n
+gefertigter g@-'fE6-tIC-t6
+gefertigtes g@-'fE6-tIC-t@s
+geflext g@-fl'Ekst
+gefrühstückt g@-fRy:-StYkt
+gegenseitige 'ge:-g@n-saI-tI-g@
+gegenseitigem 'ge:-g@n-saI-tI-g@m
+gegenseitigen 'ge:-g@n-saI-tI-g@n
+gegenseitiger 'ge:-g@n-saI-tI-g6
+gegenseitiges 'ge:-g@n-saI-tI-g@s
+gegenübersitzenden ge:-g@n-y:-b6-zIt-s@n-d@n
+gegondelt g@-gOn-d@lt
+gegrast g@-gRa:st
+geguckt g@-gUkt
+gehandhabt g@-h'ant-ha:pt
+gehbehindert ge:b@-hIn-d6t
+gehopst g@-hOpst
+geirrt g@-I6t
+gekennzeichnete g@-'kEn-tsaIC-n@-t@
+gekennzeichnetem g@-'kEn-tsaIC-n@-t@m
+gekennzeichneten g@-'kEn-tsaIC-n@-t@n
+gekennzeichneter g@-'kEn-tsaIC-n@-t6
+gekennzeichnetes g@-'kEn-tsaIC-n@-t@s
+geklingelt g@-klIN-@lt
+gekuckt g@-kUkt
+gelatscht g@-la:tSt
+gelegensten g@-le:-g@n-st@n
+gelenkte g@-lENk-t@
+gelenktem g@-lENk-t@m
+gelenkter g@-lENk-t6
+gelenktes g@-lENk-t@s
+geltend gEl-t@nt
+gemessene g@-'mE-s@-n@
+gemessenem g@-'mE-s@n-@m
+gemessenen g@-'mE-s@n-@n
+gemessener g@-'mE-s@n-6
+gemessenes g@-'mE-s@n-@
+gemächlich g@-mE:-ClIC
+gemächlichem g@-mE:C-lI-C@m
+gemächlichen g@-mE:C-lI-C@n
+gemächlicher g@-mE:C-lI-C6
+gemächliches g@-mE:C-lI-C@s
+gemächlichste g@-mE:C-lIC-s-t@
+gemächlichstem g-@mE:C-lICs-t@m
+gemächlichsten g-@mE:C-lICs-t@n
+gemächlichster g-@mE:C-lICs-t6
+gemächlichstes g-@mE:C-lICs-t@s
+gemütlichem g@-my:t-lI-C@m
+gemütlichen g@-my:t-lI-C@n
+gemütliches g@-my:t-lI-C@s
+gemütlichste g@-my:t-lICs-t@
+gemütlichstem g@-my:t-lICs-t@m
+gemütlichsten g@-my:t-lICs-t@n
+gemütlichstes g@-my:t-lIC-st@s
+geneigte ge-naIk-t@
+geneigtem ge-naIk-t@m
+geneigten ge-naIk-t@n
+geneigter ge-naIk-t6
+geneigtes ge-naIk-t@s
+generelle ge-n@-'RE-l@
+generellem ge-n@-'RE-l@m
+generellen ge-n@-'RE-l@n
+genereller ge-n@-'RE-l6
+generelles ge-n@-'RE-l@s
+genügten g@-ny:k-t@n
+geplantes g@-pla:n-t@s
+geplätschert g@-plEt-S6t
+gequatscht g@-kvatSt
+gequält g@-kvE:lt
+gerast g@-Ra:st
+geredet g@-Re:-d@t
+gereist g@-RaIst
+geringerem g@-'RIN-6@m
+geringeres g@-'RIN-6@s
+gerüstet g@-RYs-t@t
+gescheuert g@-SOY-6t
+geschienen g@-Si:-n@n
+geschienten g@-Si:n-t@n
+geschlendert g@-Sl@n-d6t
+geschneit g@-SnaIt
+geschrubbt g@-SRUpt
+geschämt g@-SE:mt
+gesessen g@-zE-s@n
+gesonnt g@-zOnt
+gespien g@-Spi:@n
+gesprächig g@-SpRE:-CIC
+gesprächige g@-SpRE:-CI-g@
+gesprächigem g@-SpRE:-CI-g@m
+gesprächigen g@-SpRE:-CI-g@n
+gesprächiger g@-SpRE:-CI-g6
+gesprächiges g@-SpRE:-CI-g@s
+gestochen g@-StO-x@n
+gestochenem g@-StO-x@-n@m
+gestochenen g@-StO-x@-n@n
+gestochener g@-StO-x@-n6
+gestochenes g@-StO-x@-n@s
+gestolpert g@-StOl-p6t
+gestopft g@-StOpft
+gestopfte g@-StOpf-t@
+gestopftem g@-StOpf-t@m
+gestopften g@-StOpf-t@n
+gestopfter g@-StOpf-t6
+gestopftes g@-StOpf-t@s
+gestrafft g@-StRaft
+gestraffte g@-StRaf-t@
+gestrafftem g@-StRaf-t@m
+gestrafften g@-StRaf-t@n
+gestraffter g@-StRaf-t6
+gestrafftes g@-StRaf-t@s
+gestraft g@-StRa:ft
+gestrafte g@-StRa:f-t@
+gestraftem g@-StRa:f-t@m
+gestraften g@-StRa:f-t@n
+gestrafter g@-StRa:f-t6
+gestraftes g@-StRa:f-t@s
+gestreßt g@-StREst
+gestreßte g@-StREs-t@
+gestreßtem g@-StREs-t@m
+gestreßten g@-StREs-t@n
+gestreßter g@-StREs-t6
+gestreßtes g@-StREs-t@s
+gestrichen g@-StRi-C@n
+gestrichene g@-StRi-C@-n@
+gestrichenem g@-StRi-C@-n@m
+gestrichenen g@-StRi-C@-n@n
+gestrichener g@-StRi-C@-n6
+gestrichenes g@-StRi-C@-n@s
+gestritten g@-StRI-t@n
+gestunken g@-StUN-k@n
+gestärkt g@-StE6kt
+gestärkte g@-StE6k-t@
+gestärktem g@-StE6k-t@m
+gestärkten g@-StE6k-t@n
+gestärkter g@-StE6k-t6
+gestärktes g@-StE6k-t@s
+gestürmt g@-StY6mt
+gestürmte g@-StY6m-t@
+gestürmtem g@-StY6m-t@m
+gestürmten g@-StY6m-t@n
+gestürmter g@-StY6m-t6
+gestürmtes g@-StY6m-t@s
+getrenntem g@-tREn-t@m
+getrennten g@-tREn-t@n
+getrennter g@-tREn-t6
+getrenntes g@-tREn-t@s
+getroffene g@-tRO-f@-n@
+getroffenem g@-tRO-f@-n@m
+getroffenen g@-tRO-f@-n@n
+getroffener g@-tRO-f@-n6
+getroffenes g@-tRO-f@-n@s
+getätigt g@-tE:-tICt
+gewollt g@-vOlt
+gewolltem g@-vOl-t@m
+gewollter g@-vOl-t6
+gewolltes g@-vOl-t@s
+geärgert g@-E6-g6t
+gnädigerweise gn'E:-dI-g6-vaI-z@
+grammar gR'E-m6
+grenzwertem gREnts-ve:6-t@m
+grenzwertig gREnts-ve:6t-Ig
+grenzwertigem gREnts-ve:6-tI-g@m
+grenzwertigen gREnts-ve:6-tI-g@n
+grenzwertiger gREnts-ve:6-tI-g6
+grenzwertiges gREnts-ve:6-tI-g@s
+großspurig gRo:s-Spu:-RIC
+großspurige gRo:s-Spu:-RI-g@
+großspurigem gRo:s-Spu:-RI-g@m
+großspurigen gRo:s-Spu:-RI-g@n
+großspuriger gRo:s-Spu:-RI-g6
+großspuriges gRo:s-Spu:-RI-g@s
+guckst gUkst
+gähnende gE:-n@n-d@
+happy h'E-pi
+heidernei haI-dE6-naI
+heimgebracht haIm-g@-bRaxt
+heimgebrachte haIm-g@-bRax-t@
+heimgebrachtem haIm-g@-bRax-t@m
+heimgebrachter haIm-g@-bRax-t6
+heimgebrachtes haIm-g@-bRax-t@s
+herabfahren hE-Rap-fa:-R@n
+herabfahrend hE-Rap-fa:-R@nd
+herabfahrende hE-Rap-fa:-R@n-d@
+herabfahrendem hE-Rap-fa:-R@n-d@m
+herabfahrenden hE-Rap-fa:-R@n-d@n
+herabfahrender hE-Rap-fa:-R@n-d6
+herabfahrendes hE-Rap-fa:-R@n-d@s
+herabfallen hE-Rap-fa-l@n
+herabfallend hE-Rap-fa-l@nd
+herabfallende hE-Rap-fa-l@n-d@
+herabfallendem hE-Rap-fa-l@n-d@m
+herabfallenden hE-Rap-fa-l@n-d@n
+herabfallender hE-Rap-fa-l@n-d6
+herabgefahren hE-Rap-g@-fa:-R@n
+herabgefahrenem hE-Rap-g@-fa:-R@-n@m
+herabgefahrenen hE-Rap-g@-fa:-R@-n@n
+herabgefahrener hE-Rap-g@-fa:-R@-n6
+herabgefahrenes hE-Rap-g@-fa:-R@-n@s
+herabgefallen hE-Rap-g@-fa-l@n
+herabgefallene hE-Rap-g@-fa-l@-n@
+herabgefallenem hE-Rap-g@-fa-l@-n@m
+herabgefallenen hE-Rap-g@-fa-l@-n@n
+herabgefallener hE-Rap-g@-fa-l@-n6
+herabgefallenes hE-Rap-g@-fa-l@-n@s
+herabgezogen hE-Rap-g@-'tso:-g@n
+herabgezogene hE-Rap-g@-'tso:-g@-n@
+herabgezogenem hE-Rap-g@-'tso:-g@-n@m
+herabgezogenen hE-Rap-g@-'tso:-g@-n@n
+herabgezogener hE-Rap-g@-'tso:-g@-n6
+herabgezogenes hE-Rap-g@-'tso:-g@-n@s
+herabziehen hE-Rap-'tsi:-@n
+herabziehend hE-Rap-'tsi:-@nd
+herabziehende hE-Rap-'tsi:-@n-d@
+herabziehendem hE-Rap-'tsi:-@n-d@m
+herabziehenden hE-Rap-'tsi:-@n-d@n
+herabziehender hE-Rap-'tsi:-@n-d6
+herabziehendes hE-Rap-'tsi:-@n-d@s
+herangenaht hE-Ran-g@-na:t
+herannaht hE-Ran-na:t
+heranziehen hE-Ran-tsi:-@n
+herausgefahren hE-RaUs-g@-fa:-R@n
+herausgefunden hE-RaUs-g@-fUn-d@n
+herausgenommen hE-RaUs-g@-nO-m@n
+herausgeschrieben hE-RaUs-g@-SRi:-b@n
+herausgestellt hE-RaUs-g@-StElt
+herausgesucht hE-RaUs-g@-zUxt
+herausschneiden hE-RaUs-SnaI-d@n
+heraussuchen hE-RaUs-zu:-x@n
+herauszusuchen hE-RaUs-tsu:-zu:-x@n
+hereingekommen hE-RaIn-g@-kO-m@n
+herrje hE6-j'e:
+herrliche hE6-lI-C@
+herrlichen hE6-lI-C@n
+herrliches hE6-lI-C@s
+herschieben he:6-Si:-b@n
+herspringen he:6-SpRIN-@n
+herumgefahren hE-RUm-g@-fa:-R@n
+herumgekommen hE-RUm-g@-kOm-@n
+herumgelaufen hE-RUm-g@-laU-f@n
+herumgeschaut hE-RUm-g@-SaUt
+herumgesteppt hE-RUm-g@-StEpt
+herumgestritten hE-RUm-g@-StRI-t@n
+herumkutschen hE-RUm-kUt-S@n
+herumstehen hER-Um-Ste:-@n
+herumärgern hER-um-E6-g6n
+herunten hE-R'Un-t@n
+hervorholen hE6-fo:6-ho:-l@n
+hervorragendes hE6-fo:6-Ra:-g@n-d@s
+hervorzieht hE6-fo:6-tsi:t
+hihi hi:-hi:
+hinab hi:-'nap
+hinaufgefahren hI-n'aUf-g@-fa:-R@n
+hinaufgehen hI-naUf-ge:-@n
+hinaufgeht hI-naUf-ge:t
+hinausgefahren hI-naUs-g@-fa:-R@n
+hinausgeht hI-naUs-ge:t
+hinausschauen hI-naUs-SaU-@n
+hinausverlegen hI-naUs-fE6-le:-g@n
+hinauszugehen hI-naUs-tsu:-ge:-@n
+hinbiegen hIn-bi:-g@n
+hineinfährt hIn-aIn-fE:6t
+hineingefallen hI-naIn-g@-fa-l@n
+hineingehen hI-naIn-ge:-@n
+hineingeht hI-naIn-ge:t
+hineingehört hI-n'aIn-g@-h2:6t
+hineingelockt hI-n'aIn-g@-lOkt
+hineingepfiffen hI-n'aIn-g@-pfI-f@n
+hineinkommt hI-naIn-kOmt
+hineinlegen hI-naIn-le:-g@n
+hineinnehmen hI-naIn-ne:-m@n
+hineinpassen hI-naIn-pa-s@n
+hineinquetschen hI-n'aIn-kvEt-S@n
+hineinschauen hI-naIn-SaU-@n
+hineinschnuppern hI-n'aIn-SnU-p6n
+hineinstopft hI-naIn-StOpft
+hineinstürzen hI-naIn-StY6-ts@n
+hineintappen hI-n'aIn-ta-p@n
+hineintun hI-naIn-tu:n
+hineinverteilt hI-n'aIn-fE6-taIlt
+hingebracht hIn-g@-bRaxt
+hingeflogen hIn-g@-flo:-g@n
+hinunterfahren hI-nUn-t6-fa:-R@n
+hinunterzulaufen hI-nUn-t6-tsu:-laU-f@n
+hinzukommt hIn-tsu:-kOmt
+hinübergegangen hI-n'y:-b6-g@-gaN-@n
+hochehrwürdigen ho:x-'e:6-vY6-dI-g@n
+hoppla h'O-pla
+hundsmiserabel hUnts-mi:-z6-Ra:-b@l
+höllisch h9-lIS
+höllische h9-lI-S@
+höllischem h9-lI-S@m
+höllischen h9-lI-S@n
+höllischer h9-lI-S6
+höllisches h9-lI-S@s
+hübsch hYpS
+indiskret In-dIs-kRe:t
+innerabteilige 'In6-ap-taI-lI-g@
+interessanterweise In-t@-RE-s'an-t6-vaI-z@
+italiano i-tal-j'a-no:
+jetten dZE-t@n
+klingeling klIN-@-l'IN
+klingelt klIN-@lt
+knallvoll knal-fOl
+komfortabel kOm-fO6-ta:-b@l
+komfortabelste kOm-fO6-ta:-b@l-st@
+komfortable kOm-fO6-ta-bl@
+komfortabler kOm-fO6-ta:-bl6
+kompakt kOm-pakt
+kompakte kOm-pak-t@
+kompaktem kOm-pak-t@m
+kompakten kOm-pak-t@n
+kompakter kOm-pak-t6
+kompaktes kOm-pak-t@s
+kompensiert kOm-pEn-'zi:6t
+kompetent kOm-pE-tEnt
+komplettem kOm-plE-t@m
+kompletter kOm-plE-t6
+komplettes kOm-plE-t@s
+komplizierter kOm-pli-tsi:6-t6
+komprimieren kOm-pRi-mi:-R@n
+komprimierte kOm-pRi-mi:6-t@
+komprimierten kOm-pRi-mi:6-t@n
+kompromittierende kOm-pRo-mI-ti:-R@n-d@
+kompromißbereit kOm-pRo-mIs-b@-RaIt
+konferieren kOn-fe:-Ri:R@n
+konkretem kON-'kRe:-t@m
+konkreter kON-'kRe:-t6
+konkretes kON-'kRe:-t@s
+korrespondiert kO-R@s-pOn-di:6t
+kostengünstig kOs-t@n-gYn-stIC
+kreieren kRe:-'i:-R@n
+kuck kUk
+kucke kU-k@
+kucken kU-k@n
+kuckt kUkt
+körperbehindert k9R-p6-b@-hIn-d6t
+köstlichen k9st-lI-C@n
+labeln l'e:-b@ln
+landest lan-dEst
+lebendig le:-bEn-dIg
+lebendige le:-bEn-dI-g@
+lebendigem le:-bEn-dI-g@m
+lebendigen le:-bEn-dI-g@n
+lebendiger le:-bEn-dI-g6
+lebendiges le:-bEn-dI-g@s
+lehnen le:-n@n
+lesbar 'le:z-ba:R
+lesbare 'le:z-ba:-R@
+lesbarer 'le:z-ba:-R6
+lesbares 'le:z-ba:-R@s
+literarisch li:-t@-'Ra:-RIS
+literarische li:-t@-'Ra-RI-S@
+literarischem li:-t@-'Ra:-RI-S@m
+literarischen li:-t@-'Ra:-RI-S@n
+literarischer li:-t@-'Ra:-RI-S6
+literarisches li:-t@-'Ra:-RI-S@s
+lockerem lO-k6-R@m
+lockeren lO-k6-R@n
+lockeres lO-k6-R@s
+logieren 'lo:-Si:-R@n
+magst ma:kst
+mailen mE:-l@n
+managen mE-nEdZn
+mangare man-dZa:-R@
+mangiare man-dZ'a:-R@
+maßen 'ma:-s@n
+maßgebliche 'ma:s-ge:b-lI-C@
+maßgeblichem 'ma:s-ge:b-lI-C@m
+maßgeblichen 'ma:s-ge:b-lI-C@n
+maßgeblicher 'ma:s-ge:b-lI-C6
+maßgebliches 'ma:s-ge:b-lI-C@s
+mehrmaligen me:6-ma:-lI-g@n
+mehrmaliger me:6-ma:-lI-g6
+meintest maIn-t@st
+methodische me-to:-dI-S@
+methodischem me-to:-dI-S@m
+methodischen me-to:-dI-S@n
+methodischer me-to:-dI-S6
+methodisches me-to:-dI-S@s
+mitgebracht mIt-g@-bRaxt
+mitgebrachtem mIt-g@-bRax-t@m
+mitgebrachter mIt-g@-bRax-t6
+mitgebrachtes mIt-g@-bRax-t@s
+mitgeholfen mIt-g@-hOl-f@n
+mithineinnehmen mIt-hI-n'aIn-ne:-m@n
+mithineinziehen mIt-hI-n'aIn-tsi:-@n
+mitschicken mIt-SIk-@n
+mittlerem mIt-l6-R@m
+mitziehen mIt-si:-@n
+moin m'OYn
+motzen mOt-s@n
+möchtest m9C-t@st
+nachgekuckt n'a:x-g@-kUkt
+nachkucken n'a:x-kU-k@n
+nahegelegene na:E-g@-le:-g@-n@
+nahegelegenen na:E-g@-le:-g@-n@n
+nass nas
+naß nas
+neuneinhalb nOYn-aIn-halp
+neuneinhalbstündige nOYn-aIn-halp-StYn-dI-g@
+neusten n'OY-st@n
+nice naIs
+niemanden n'i:-man-d@n
+nine n'aIn
+nineties n'aIn-ti:s
+nochmaligen nOx-ma:-lI-g@n
+normales nO6-ma:-l@s
+notorisch no:-to:-RIS
+notwendigem 'no:t-vEn-dI-g@m
+notwendiger 'no:t-vEn-dI-g6
+notwendiges 'no:t-vEn-dI-g@s
+nächstgelegensten n'E:Cst-g@-le:-g@n-st@n
+oberbayrischen 'o:-b6-baI-RI-S@n
+okay o-kej
+orangefarbene ?o:-'Ra~Z-fa6-b@-n@
+orangefarbenem ?o:-'Ra~Z-fa6-b@-n@m
+orangefarbenen ?o:-'Ra~Z-fa6-b@-n@n
+orangefarbener ?o:-'Ra~Z-fa6-b@-n6
+orangefarbenes ?o:-'Ra~Z-fa6-b@-n@s
+passables pa-s'a:-bl@s
+pizzeriamäßiges pIt-sE-R'i:a-mE:-sI-g@s
+please pl'i:s
+plätschert plE-tS6t
+plätscherte plE-tS6-t@
+plötzliche 'pl9ts-lI-C@
+plötzlichem 'pl9ts-lI-C@m
+plötzlicher 'pl9ts-lI-C6
+plötzliches 'pl9ts-lI-C@s
+pronto pR'On-tO
+prophylaktisch pRo-fy-lak-tIS
+proppenvoll pRO-p@n-fOl
+prosodisch pRo-zo:-dIS
+protokollieren pRo-to-kO-li:-R@n
+präferieren pRE-fe:-Ri-R@n
+präferierten pRE-fe:-Ri6-t@n
+qualifizieren kva-li:-fi:-tsi:-R@n
+qualifizierend kva-li:-fi:-tsi:-R@nd
+qualifizierende kva-li:-fi:-tsi:-R@n-d@
+qualifizierendem kva-li:-fi:-tsi:-R@n-d@m
+qualifizierenden kva-li:-fi:-tsi:-R@n-d@n
+qualifizierender kva-li:-fi:-tsi:-R@n-d6
+qualifizierendes kva-li:-fi:-tsi:-R@n-d@s
+quatschen kva:t-S@n
+quetschen 'kvEt-S@n
+quäle kvE:-l@
+quälen kvE:-l@n
+rausgehauen R'aUs-g@-haU-@n
+rausgeklaubt R'aUs-g@-klaUpt
+rausgekramt R'aUs-g@-kRa:mt
+rausgezögert RaUs-g@-ts2:-g6t
+raustuckern R'aUs-tU-k6n
+recherchiere RE-S6-Si:-R@
+recherchieren RE-S6-Si:-R@n
+recherchiert RE-S6-Si:6t
+recherchierte RE-S6-Si:6-t@
+recherchiertem RE-S6-Si:6-t@m
+recherchierten RE-S6-Si:6-t@n
+recherchierter RE-S6-Si:6-t6
+recherchiertes RE-S6-Si:6-t@s
+rechnerisch REC-n@-RiS
+rechnerische REC-n@-Ri-S@
+rechnerischem REC-n@-Ri-S@m
+rechnerischen REC-n@-Ri-S@n
+rechnerischer REC-n@-Ri-S6
+rechnerisches REC-n@-Ri-S@s
+rechtes REC-t@s
+rechtesten R'EC-t@s-t@n
+rechtlichem RECt-lI-C@m
+rechtlicher RECt-lI-C6
+rechtliches RECt-lI-C@s
+rechtmäßigem 'RECt-mE-sI-g@m
+rechtmäßiger 'RECt-mE-sI-g6
+rechtmäßiges 'RECt-mE-sI-g@s
+rechtsextremen ?Eks-'tRe:-m@n
+referieren Re-fE-Ri-R@n
+regenerieren Re:-gE-nE-Ri:-R@n
+regnerisch Re:-gn6-RIS
+regular R'E-gju-l6
+reinarbeiten R'aIn-aR-baI-t@n
+reinblättern R'aIn-blE-t6n
+reinbringen RaIn-bRIN-@n
+reinfahren RaIn-fa:-R@n
+reinfeiern R'aIn-faI-6n
+reinfliegen R'aIn-fli:-g@n
+reingeben R'aIn-ge:-b@n
+reingedeutet R'aIn-g@-dOY-t@t
+reingefahren RaIn-g@-fa:-R@n
+reingefallen RaIn-g@-fal-@n
+reingegangen RaIn-g@-gaN-@n
+reingehen RaIn-ge:-@n
+reingeht RaIn-ge:t
+reingekommen RaIn-g@-kO-m@n
+reingekriegt R'aIn-g@-kRi:kt
+reingekuckt R'aIn-g@-kUkt
+reingelegt RaIn-g@-le:kt
+reingemacht RaIn-g@-maxt
+reingesetzt R'aIn-g@-zEtst
+reingespart R'aIn-g@-Spa:Rt
+reingezogen R'aIn-g@-tso:-g@n
+reinhaut RaIn-haUt
+reinhängen R'aIn-hEN-@n
+reinkommt RaIn-kOmt
+reinkucken R'aIn-kU-k@n
+reinkäme RaIn-kE:-m@
+reinladen R'aIn-la:-d@n
+reinlegen RaIn-le:-g@n
+reinmüssen R'aIn-mY-s@n
+reinnehmen R'aIn-ne:-m@n
+reinpassen RaIn-pa-s@n
+reinquetschen R'aIn-kvEt-S@n
+reinschauen RaIn-SaU-@n
+reinschieben R'aIn-Si:-b@n
+reinschmeißt R'aIn-SmaIst
+reinschreiben RaIn-SRaI-b@n
+reinsetzen R'aIn-zE-ts@n
+reinspielt R'aIn-Spi:lt
+reinspreche R'aIn-SpRE-C@
+reinzubringen RaIn-tsu:-bRIN-@n
+reinzukommen RaIn-tsu:-kOm-@n
+reinzuquetschen R'aIn-tsu-kvEt-S@n
+reinübernachten RaIn-y:-b6-nax-t@n
+reist RaIst
+relaxed RI-l'Ekst
+restaurantmäßig REs-to-R'a~-mE:-sIC
+revanchieren R@-va~-Zi:-R@n
+rollerbladen R'o-l6-ble:-d@n
+ruckelt R'U-k@lt
+rucki RU-ki
+rumbettelt R'Um-bE-t@lt
+rumgeguckt R'Um-g@-gUkt
+rumgeplätschert R'Um-g@-plEt-S6t
+rumgestritten R'Um-g@-StRI-t@n
+rumkucken R'Um-kU-k@n
+rumstehen RUm-Ste:-@n
+rumzustehen RUm-tsu:-Ste:-@n
+rutschen RUt-S@n
+räuspere R'OY-sp@-R@
+rüberjetten R'y:-b6-dZE-t@n
+sachgerecht zax-g@-RECt
+sachgerechte zax-g@-REC-t@
+sachgerechtem zax-g@-REC-t@m
+sachgerechten zax-g@-REC-t@n
+sachgerechter zax-g@-REC-t6
+sachgerechtes zax-g@-REC-t@s
+scannen sk'E-n@n
+schadlose Sa:t-lo:-z@
+schadlosem Sa:t-lo:-z@m
+schadlosen Sa:t-lo:-z@n
+schadloser Sa:t-lo:-z6
+schadloses Sa:t-lo:-z@s
+schafkopfen S'a:f-kOpf-@n
+schematische S@-ma:-tI-S@
+schematischem S@-ma:-tI-S@m
+schematischen S@-ma:-tI-S@n
+schematischer S@-ma:-tI-S6
+schematisches S@-ma:-tI-S@s
+schenkten SENk-t@n
+schlußendlich SlUs-'Ent-lIC
+schmalerem Sma:-l@-R@m
+schmalerer Sma:-l@-R6
+schmaleres Sma:-l@-R@s
+schmutzig SmU-tsIC
+schneit SnaIt
+schnuckelige Sn'Uk-lI-g@
+schoen S'2:n
+schrullige SRU-lI-g@
+schwebt Sve:pt
+schwenken SvEN-k@n
+schweres Sve:-R@s
+schwerste 'SvE6-st@
+schwerstem 'SvE6-st@m
+schwersten 'SvE6-st@n
+schwerstes 'SvE6-st@s
+schwierige Sv'i:-RI-g@
+schwierigeres Svi:-RI-g6-R@s
+schwindlig SvInt-lIC
+sechseinhalb zEks-aIn-halp
+sechseinhalbstündige zEk-saIn-halp-StYn-dI-g@
+selbstredend zElpst-Re:-d@nt
+seminarmäßig ze-mi-n'a:6-mE:-sIC
+shimasu Si-ma-zu
+shoppen S'O-p@n
+shuttle S'a-tl
+siebeneinhalb zi:-b@n-aIn-halp
+siebeneinhalbstündige zi:-b@n-aIn-halp-StYn-dI-g@
+sightseeing s'aIt-si:-IN
+sinnvollsten zIn-fOl-st@n
+slot sl'Ot
+soap so:p
+sonoren zo-no:-R@n
+soundso z'o:-Unt-zo:
+spazierengegangen Spa-tsi:-R@n-g@-gaN-@n
+spaßig Spa:-sIC
+spaßiger Spa:-sI-g6
+special sp'e-S@l
+spesenmäßig Sp'e:-z@n-mE:-sIC
+speziellem Spe-tsjEl-@m
+spezielles Spe-tsjEl-@s
+sporadisch Spo-Ra:-dIS
+spätabends SpE:t-'a:-b@nts
+squashen skv'O-S@n
+starr Sta6
+statisch Sta:-tiS
+statische Sta:-ti-S@
+statischem Sta:-ti-S@m
+statischen Sta:-ti-S@n
+statischer Sta:-ti-S6
+statisches Sta:-ti-S@s
+stilles StI-l@s
+strengst StRENst
+stutzen StUt-s@n
+subjektiv 'zUp-jEk-ti:v
+subjektivem 'zUp-jEk-ti:-v@m
+subjektiven 'zUp-jEk-ti:-v@n
+subjektiver 'zUp-jEk-ti:-v6
+subjektives 'zUp-jEk-ti:-v@s
+sympathisch zYm-pa:-tIS
+sympathische zYm-pa:-tI-S@
+sympathischem zYm-pa:-tI-S@m
+sympathischen zYm-pa:-tI-S@n
+sympathischer zYm-pa:-tI-S6
+sympathisches zYm-pa:-tI-S@s
+systematischem zYs-te-ma:-tI-S@m
+systematisches zYs-te-ma:-tI-S@s
+table t'e:b@l
+taugt taUkt
+teacher t'i:-tS6
+termine tE6-mi:-n@
+termines tE6-mi:-n@s
+terminlich tE6-m'i:n-lIC
+terminliche tE6-mi:n-lI-C@
+terminlichen tE6-mi:n-lI-C@n
+terminmäßig tE6-m'i:n-mE:-sIC
+teureres tOY-R6-R@s
+teures tOY-6@s
+thermodynamisch dy-na:-mIS
+thermodynamischen dy-na:-mI-S@n
+tonight tu-n'aIt
+totales to-ta:-l@s
+transferieren tRans-fE-Ri-R@n
+transferiert tRans-fE-Ri6t
+transparent tRans-pa-REn't
+transparente tRans-pa-REn-'t@
+transparentem tRans-pa-REn-'t@m
+transparenten tRans-pa-REn-'t@n
+transparenter tRans-pa-REn-'t6
+transparentes tRans-pa-REn-'t@s
+trostlose tRo:st-lo:-z@
+tschüß tS'Ys
+tubes tj'u:ps
+tunlichst tu:nlICst
+tägiges tE:-gI-g@s
+umbuchen 'Um-bu:-x@n
+umdisponieren Um-dIs-po-ni:-R@n
+umgekuckt 'Um-g@-kUkt
+umkucken 'Um-kU-k@n
+umschaue Um-SaU@
+umständlich Um-StEnt-lIC
+umweltfreundlicher Um-vElt-fROYnt-lI-C6
+umweltschonender 'Um-vElt-So:-n@n-d6
+umzubuchen Um-tsu:-bu:-x@n
+unabkömmlich Un-ap-k9m-lIC
+unausgeschlafen 'Un-aUs-g@-Sla:-f@n
+unbeabsichtigt Un-b@-ap-zIC-tICt
+unbeabsichtigten Un-b@-ap-zIC-tIC-t@n
+unbeabsichtigtes Un-b@-ap-zIC-tIC-t@s
+unbedenklich Un-b@-dENk-lIC
+unbedenkliche Un-b@-dEN-klI-C@
+unbedenkliches Un-b@-dENk-lI-C@s
+unbehaglich Un-b@-hag-lIC
+unbenutzt Un-b@-nUtst
+unbenutztem Un-b@-nUts-t@m
+unbenutzter Un-b@-nUts-t6
+unbenutztes Un-b@-nUtst-@s
+uneigennützig Un-aI-gE-nYt-sIC
+unentgeltliche Un-Ent-gElt-lI-C@
+unentgeltliches Un-Ent-gElt-lI-C@s
+ungestörtesten 'Un-g@-St2:6-t@s-t@n
+unglaubliche UN-laUp-lI-C@
+unkompliziert 'Un-kOm-pli-tsi:6t
+unsern 'Un-z6n
+unsrer 'Un-zR6
+unstreitig Un-StRaI-tiC
+unterhaltend Un-t6-hal-t@nt
+unzureichende Un-tzu-RaI-C@n-d@
+unzureichendem Un-tzu-RaI-C@n-d@m
+unzureichenden Un-tzu-RaI-C@n-d@n
+unzureichender Un-tzu-RaI-C@n-d6
+unzureichendes Un-tzu-RaI-C@n-d@s
+verabredet fE6-ap-Re:-d@t
+verabredeten fE6-ap-Re:-d@-t@n
+verabschieden fE6-ap-Si:-d@n
+verallgemeinern fE6-al-g@-'maI-n6n
+verallgemeinernde fE6-al-g@-'maI-n6n-d@
+verallgemeinerndem fE6-al-g@-'maI-n6n-d@m
+verallgemeinernden fE6-al-g@-'maI-n6n-d@n
+veraltetes fE6-'al-t@-t@s
+verarschst fE6-a6Sst
+verbraten fE6-bRa:-t@n
+verbringende fE6-bRIN-@n-d@
+verdreckten fE6-dREk-t@n
+verguckt fE6-gUkt
+verhaspeln fE6-has-p@ln
+verhext fE6-hEkst
+verkuckt fE6-k'Ukt
+verlängertes fE6-lEN6-t@s
+vermerke fE6-mE6-k@
+vermerken fE6-mE6-k@n
+verneinen fE6-naI-n@n
+verpesten fE6-pEs-t@n
+verplant fE6-pla:nt
+verreist fE6-RaIst
+verrutschte fER-RUtS-t@
+verrutschtem fER-RUtS-t@m
+verrutschten fER-RUtS-t@n
+verrutschter fER-RUtS-t6
+verrutschtes fER-RUtS-t@s
+verschenkt fE6-SENkt
+verschieben fE6-S'i:-b@n
+verschlafen fE6-Sla:-f@n
+verschlossenen fE6-SlO-s@-n@n
+verschmutzt fE6-SmUtst
+verschmutzte fE6-SmUts-t@
+verschmutztem fE6-SmUts-t@m
+verschmutzten fE6-SmUts-t@n
+verschmutzter fE6-SmUts-t6
+verschmutztes fE6-SmUts-t@s
+verschnupft fE6-Snupft
+verschnörkelt fE6-Sn96-k@lt
+verschwenden fE6-SvEn-d@n
+verschärft fE6-SERft
+verschärfte fE6-SERf-t@
+verschärftem fE6-SERf-t@m
+verschärfter fE6-SERf-t6
+verschärftes fE6-SERf-t@s
+versperren fE6-SpE-R@n
+versperrt fE6-SpERt
+versperrte fE6-SpER-t@
+versperrtem fE6-SpER-t@m
+versperrten fE6-SpER-t@n
+versperrter fE6-SpER-t6
+versperrtes fE6-SpER-t@s
+versprechend fE6-SpRE-C@nt
+verstauen fE6-StaU-@n
+verstreichen fE6-StRaI-C@n
+verstunken fE6-StUN-k@n
+verstärktem fE6-StE6k-t@m
+verstärkter fE6-StE6k-t6
+verstärktes fE6-StE6k-t@s
+vertraue fE6-tRaU-@
+vertretbare fE6-tRe:t-ba:-R@
+vertretbarem fE6-tRe:t-ba:-R@m
+vertretbaren fE6-tRe:t-ba:-R@n
+vertretbarer fE6-tRe:t-ba:-R6
+vertretbares fE6-tRe:t-ba:-R@s
+verurlaubt fE6-U6-laUpt
+verwirrt fE6-vI6t
+verworfen fE6-'vOR-f@n
+viereinhalbstündige fi:6-aIn-h'alp-StYn-dI-g@
+viertägige f'i:6-tE:-gI-g@
+viertägiges f'i:6-tE:-gI-g@s
+voila vO6-l'a
+vollgestopfter fOl-g@-StOpf-t6
+vonstatten fon-Sta-t@n
+vorab fo:6-?ap
+vorangeht fo-Ran-g@t
+vorausgegangenen fo:-RaUs-g@-gaN-@n-@n
+vorbeigeguckt fo:6-b'aI-g@-gUkt
+vorbeikucken fo:6-b'aI-kU-k@n
+vordere 'fO6-d6-R@
+vorgehen fo:6-ge:-@n
+vorherige fo:6-he:-Ri-g@
+vorhersehbare foR-he:6-se:-ba-6@
+vorhersehbarem foR-he:6-se:-ba-6@m
+vorhersehbaren foR-he:6-se:-ba-6@n
+vorhersehbarer foR-he:6-se:-ba6-6
+vorhersehbares foR-he:6-se:-ba-6@s
+vorn foRn
+vorsortieren f'o:6-zo6-ti:-R@n
+vorverschieben fo:6-fE6-Si:-b@n
+völliges f9-lI-g@s
+wandern v'an-d6n
+warnt vaRnt
+waschen va-S@n
+wasserscheuem va-s6-SOY-@m
+wasserscheuen va-s6-SOY-@n
+wasserscheuer va-s6-SOY-6
+wasserscheues va-s6-SOY-@s
+wechselseitige vEk-s@l-zaI-tI-g@
+wechselseitigen vEk-s@l-zaI-tI-g@n
+wegfahren v'Ek-fa:-R@n
+weggehen v'Ek-ge:-@n
+whatsoever vOt-so-'E-v6
+wiedergebracht vi:-d6-g@-bRaxt
+willkommene vIl-kO-m@-n@
+wählerisch vE:-l6-RIS
+wärst v'E:6st
+wöchentlichen v9-C@nt-lI-C@n
+yeah j'@
+zehneinhalb tse:n-aIn-halp
+zehneinhalbstündige tse:n-aIn-halp-StYn-dI-g@
+zehntem ts'e:n-t@m
+zeitsparend tsaIt-Spa:-R@nt
+zerdeppern tsER-dE-p6n
+zucki ts'U-ki
+zufälligerweise ts'u:-fE-lI-g6-vaI-z@
+zugebracht tsu:-g@-bRaxt
+zugesagt tsu:-g@-za:kt
+zurechtstutzen tsu-RECt-StUt-s@n
+zurückgeflogen tsu-RYk-g@-flo:-g@n
+zuständigem tsu-StEn-dI-g@m
+zuständiger tsu-StEn-dI-g6
+zuständiges tsu-StEn-dI-g@s
+zweckmäßigem tsvEk-mE:-sI-g@m
+zweckmäßigen tsvEk-mE:-sI-g@n
+zweckmäßiger tsvEk-mE:-sI-g6
+zweckmäßiges tsvEk-mE:-sI-g@s
+zweieinhalbstündige tsvaI-aIn-halp-StYn-dI-g@
+zwölftem tsv9lf-t@m
+Ärschen '?E6-S@n
+Örtlichkeit 26t-lIC-kaIt
+Übernachten y:-b6-n'ax-t@n
+Übernachtung y:-b6-nax-tUN
+Übernachtungen y:-b6-nax-tUN-@n
+Übernachtungskosten y:-b6-n'ax-tUNs-kO-st-@n
+Übernachtungsmöglichkeit y:-b6-n'ax-tUNs-m2:k-lIC-kaIt
+Übernachtungsmöglichkeiten y:-b6-n'ax-tUNs-m2:k-lIC-kaI-t@n
+Überschneidungsprobleme y:-b6-Sn'aI-dUNs-pRo-ble:-m@
+Überschneidungspunkt y:-b6-Sn'aI-dUNs-pUNkt
+Überschneidungstermine y:-b6-Sn'aI-dUNs-tE6-mi:-n@
+Überschuß 'y:-b6-SUs
+Übungssaal 'y:-bUNs-za:l
+äußerste '?OY-s6s-t@
+äußerstem '?OY-s6s-t@m
+äußerster '?OY-s6s-t6
+äußerstes '?OY-s6s-t@s
+ökologischem 2-ko-lo:-gI-S@m
+ökologischer 2-ko-lo:-gI-S6
+überbracht y:-b6-bRaxt
+überkomfortabel 'y:-b6-kOm-fo6-ta:-b@l
+übernachte y:-b6-nax-t@
+übernachten y:-b6-nax-t@n
+überschaue y:-b6-SaU@
+überschneidend y:-b6-SnaI-d@nt
+überschneidenden y:-b6-SnaI-d@n-d@n
+überweisen y:-b6-vaI-z@n
+übrich y:-bRIC
+übriggebliebene ybRIg-g@-bli:-b@-n@
