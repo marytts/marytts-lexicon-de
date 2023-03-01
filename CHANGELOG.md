@@ -1,6 +1,9 @@
 German lexicon for MaryTTS
 ==========================
 
+[Unreleased]
+------------
+
 [v0.1.1] - 2023-03-01
 ---------------------
 
@@ -19,7 +22,7 @@ German lexicon for MaryTTS
 
 - Build with Gradle v7.5.1
 - Upgraded lexicon compiler plugin to v0.2.0
-- Migrated publishing from OJO to OSSRH
+- Migrated publishing from Bintray/OJO to OSSRH
 
 [v0.1.0] - 2017-03-01
 ---------------------
@@ -28,5 +31,6 @@ German lexicon for MaryTTS
 
 Functional parity with MaryTTS v5.2
 
-[v0.1.1]: https://github.com/marytts/marytts-lexicon-de/tree/v0.1.1
-[v0.1.0]: https://github.com/marytts/marytts-lexicon-de/tree/v0.1.0
+[Unreleased]: https://github.com/marytts/marytts-lexicon-de/tree/master
+[v0.1.1]: https://github.com/marytts/marytts-lexicon-de/releases/tag/v0.1.1
+[v0.1.0]: https://github.com/marytts/marytts-lexicon-de/releases/tag/v0.1.0
